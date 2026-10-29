@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>السلة | Ammar Tech</title>
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Start Header -->
+    <header class="header">
+      <div class="container">
+        <a href="index.html" class="logo">Ammar <span>Tech</span></a>
+        <nav class="nav">
+          <a href="index.html#home">الرئيسية</a>
+          <a href="index.html#laptops">اللابات</a>
+          <a href="index.html#why-us">ليه إحنا</a>
+          <a href="#contact">تواصل معنا</a>
+        </nav>
+        <a href="cart.html" class="cart-link" title="السلة">
+          <i class="fa-solid fa-cart-shopping"></i>
+          <span class="cart-count"></span>
+        </a>
+      </div>
+    </header>
+    <!-- End Header -->
+
+    <main class="container section">
+      <h1 class="section-title">سلة المشتريات</h1>
+      <p class="section-sub">راجع طلبك وابعته لنا على واتساب</p>
+
+      <div class="cart-layout">
+        <div id="cart-items"></div>
+
+        <aside class="panel summary" id="summary">
+          <h2>ملخص الطلب</h2>
+          <div class="row"><span>عدد الأجهزة</span><span id="sum-count"></span></div>
+          <div class="row"><span>الشحن</span><span>مجاني</span></div>
+          <div class="row total"><span>الإجمالي</span><span id="sum-total"></span></div>
+          <form id="checkout">
+            <input class="field" name="name" placeholder="الاسم" required />
+            <input class="field" name="phone" type="tel" placeholder="رقم الموبايل" required />
+            <input class="field" name="address" placeholder="العنوان / المحافظة" required />
+            <button class="btn whatsapp block" type="submit">
+              <i class="fa-brands fa-whatsapp"></i> تأكيد الطلب على واتساب
+            </button>
+          </form>
+        </aside>
+      </div>
+    </main>
+
+    <!-- Start Footer -->
+    <footer class="footer" id="contact">
+      <div class="container">
+        <div>
+          <h3 class="logo">Ammar <span>Tech</span></h3>
+          <p>متجر متخصص في بيع اللابتوبات للطلاب والمهندسين والمصممين ورواد الأعمال.</p>
+          <div class="social">
+            <a href="https://www.facebook.com/amar.mosa.370" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="https://wa.me/201507007879" title="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+            <a href="https://www.linkedin.com/in/ammar-mousa-a00bb8238/" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+          </div>
+        </div>
+        <div>
+          <h3>روابط</h3>
+          <ul>
+            <li><i class="fa-solid fa-angle-left"></i><a href="index.html#laptops">اللابات</a></li>
+            <li><i class="fa-solid fa-angle-left"></i><a href="index.html#why-us">ليه إحنا</a></li>
+            <li><i class="fa-solid fa-angle-left"></i><a href="cart.html">السلة</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>تواصل معنا</h3>
+          <ul>
+            <li><i class="fa-solid fa-location-dot"></i>مصر، دمياط</li>
+            <li><i class="fa-regular fa-clock"></i>من 10 الصبح لـ 10 بالليل</li>
+            <li><i class="fa-solid fa-phone"></i><span class="ltr">+20 150 700 7879</span></li>
+          </ul>
+        </div>
+      </div>
+      <p class="copyright">© <span class="year"></span> Ammar Tech - جميع الحقوق محفوظة</p>
+    </footer>
+    <!-- End Footer -->
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/cart.js"></script>
+  </body>
+</html>

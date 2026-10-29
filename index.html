@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ammar Tech | لابتوبات بأفضل سعر</title>
+    <meta name="description" content="Ammar Tech - متجر لابتوبات HP و Dell و Dynabook بضمان وأفضل سعر في مصر" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <!-- Start Header -->
+    <header class="header">
+      <div class="container">
+        <a href="index.html" class="logo">Ammar <span>Tech</span></a>
+        <nav class="nav">
+          <a href="#home" class="active">الرئيسية</a>
+          <a href="#laptops">اللابات</a>
+          <a href="#why-us">ليه إحنا</a>
+          <a href="#contact">تواصل معنا</a>
+        </nav>
+        <a href="cart.html" class="cart-link" title="السلة">
+          <i class="fa-solid fa-cart-shopping"></i>
+          <span class="cart-count"></span>
+        </a>
+      </div>
+    </header>
+    <!-- End Header -->
+
+    <!-- Start Hero -->
+    <section class="hero" id="home">
+      <div class="container">
+        <div>
+          <h1>لابك الجاي <span>من Ammar Tech</span></h1>
+          <p>
+            لابتوبات HP و Dell و Dynabook للشغل والدراسة والجرافيك والهندسة، متفحوصة وجاهزة
+            للاستخدام بأفضل سعر وضمان حقيقي.
+          </p>
+          <div class="actions">
+            <a href="#laptops" class="btn"><i class="fa-solid fa-laptop"></i> تصفح اللابات</a>
+            <a href="#contact" class="btn outline"><i class="fa-solid fa-headset"></i> كلمنا</a>
+          </div>
+          <div class="stats">
+            <div><b id="count-laptops"></b><span>موديل متاح</span></div>
+            <div><b id="min-price"></b><span>أسعار تبدأ من</span></div>
+            <div><b>ضمان</b><span>على كل الأجهزة</span></div>
+          </div>
+        </div>
+        <div class="hero-img">
+          <img src="images/laptops/laptop-299-1.jpg" alt="HP ZBook Fury 16 G9" />
+        </div>
+      </div>
+    </section>
+    <!-- End Hero -->
+
+    <!-- Start Laptops -->
+    <section class="section" id="laptops">
+      <div class="container">
+        <h2 class="section-title">اللابتوبات</h2>
+        <p class="section-sub">اختار اللاب المناسب لشغلك</p>
+        <div class="filters">
+          <input type="search" id="search" placeholder="ابحث بالاسم أو المعالج أو الرامات..." />
+          <div class="chips" id="brand-chips"></div>
+          <select id="sort" title="ترتيب">
+            <option value="low">السعر: من الأقل للأعلى</option>
+            <option value="high">السعر: من الأعلى للأقل</option>
+          </select>
+        </div>
+        <div class="grid" id="laptops-grid"></div>
+      </div>
+    </section>
+    <!-- End Laptops -->
+
+    <!-- Start Why Us -->
+    <section class="section features" id="why-us">
+      <div class="container">
+        <h2 class="section-title">ليه تشتري من Ammar Tech؟</h2>
+        <p class="section-sub">بنهتم بكل تفصيلة من أول ما تختار لحد ما اللاب يوصلك</p>
+        <div class="grid">
+          <div class="feature">
+            <i class="fa-solid fa-shield-halved"></i>
+            <h3>ضمان حقيقي</h3>
+            <p>كل الأجهزة متفحوصة بالكامل وعليها ضمان</p>
+          </div>
+          <div class="feature">
+            <i class="fa-solid fa-truck-fast"></i>
+            <h3>شحن لكل المحافظات</h3>
+            <p>بنوصلك لحد باب البيت في أي مكان في مصر</p>
+          </div>
+          <div class="feature">
+            <i class="fa-solid fa-tags"></i>
+            <h3>أفضل سعر</h3>
+            <p>أسعار منافسة على كل الموديلات</p>
+          </div>
+          <div class="feature">
+            <i class="fa-solid fa-headset"></i>
+            <h3>دعم فني</h3>
+            <p>بنساعدك تختار وبنتابع معاك بعد الشراء</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Why Us -->
+
+    <!-- Start Footer -->
+    <footer class="footer" id="contact">
+      <div class="container">
+        <div>
+          <h3 class="logo">Ammar <span>Tech</span></h3>
+          <p>متجر متخصص في بيع اللابتوبات للطلاب والمهندسين والمصممين ورواد الأعمال.</p>
+          <div class="social">
+            <a href="https://www.facebook.com/amar.mosa.370" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="https://wa.me/201507007879" title="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+            <a href="https://www.linkedin.com/in/ammar-mousa-a00bb8238/" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+          </div>
+        </div>
+        <div>
+          <h3>روابط</h3>
+          <ul>
+            <li><i class="fa-solid fa-angle-left"></i><a href="#laptops">اللابات</a></li>
+            <li><i class="fa-solid fa-angle-left"></i><a href="#why-us">ليه إحنا</a></li>
+            <li><i class="fa-solid fa-angle-left"></i><a href="cart.html">السلة</a></li>
+          </ul>
+        </div>
+        <div>
+          <h3>تواصل معنا</h3>
+          <ul>
+            <li><i class="fa-solid fa-location-dot"></i>مصر، دمياط</li>
+            <li><i class="fa-regular fa-clock"></i>من 10 الصبح لـ 10 بالليل</li>
+            <li><i class="fa-solid fa-phone"></i><span class="ltr">+20 150 700 7879</span></li>
+          </ul>
+        </div>
+      </div>
+      <p class="copyright">© <span class="year"></span> Ammar Tech - جميع الحقوق محفوظة</p>
+    </footer>
+    <!-- End Footer -->
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/home.js"></script>
+  </body>
+</html>
