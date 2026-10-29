@@ -1,7 +1,7 @@
 // Shared helpers for every page: price formatting, cart storage, header counter
 const STORE = {
   name: "Ammar Tech",
-  whatsapp: "201507007879",
+  whatsapp: "201067103305",
 };
 
 const CART_KEY = "ammar-tech-cart";
