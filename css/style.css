@@ -822,6 +822,14 @@ ul {
     grid-template-columns: 1fr;
   }
 
+  /* let grid columns shrink instead of growing to fit wide content like the thumbs row */
+  .hero .container > *,
+  .product > *,
+  .cart-layout > *,
+  .footer .container > * {
+    min-width: 0;
+  }
+
   .hero-img {
     order: -1;
   }
@@ -832,8 +840,20 @@ ul {
 }
 
 @media (max-width: 640px) {
+  /* menu moves to its own row under the logo */
+  .header .container {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px 0;
+    row-gap: 8px;
+  }
+
   .nav {
-    display: none;
+    order: 3;
+    width: 100%;
+    justify-content: space-between;
+    gap: 12px;
+    font-size: 14px;
   }
 
   .hero {
