@@ -8,46 +8,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "intel core i5-6400u",
-      "ram": "8g ddr4 2400",
-      "storage": "ssd 256 m.2",
-      "gpu": "intel hd 520",
-      "screen": "14.0 Led"
+      "cpu": "Intel Core i5-6400U",
+      "ram": "8GB DDR4",
+      "storage": "256GB M.2 SSD",
+      "gpu": "Intel HD Graphics 520",
+      "screen": "14 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "intel core i5-6400u"
+        "value": "Intel Core i5-6400U"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8g ddr4 2400"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 256 m.2"
+        "value": "256GB M.2 SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "intel hd 520"
+        "value": "Intel HD Graphics 520"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "14.0 Led"
+        "label": "الشاشة",
+        "value": "14 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج Intel Core i5 يقدم أداءً مستقرًا وموثوقًا في تشغيل البرامج اليومية.",
-      "وحدة تخزين SSD M.2 تضمن سرعة فائقة في إقلاع النظام وفتح الملفات.",
-      "ذاكرة عشوائية DDR4 بحجم 8 جيجابايت لتعدد مهام سلس وتصفح مريح.",
-      "حجم شاشة 14 بوصة عملي يوفر توازنًا ممتازًا بين سهولة الحمل ووضوح العرض.",
-      "كاميرا مدمجة تسهل حضور الاجتماعات الافتراضية والدروس عبر الإنترنت."
+      "اختيار اقتصادي ممتاز للطلبة وأول لاب",
+      "SSD سريع في الإقلاع وفتح البرامج",
+      "مناسب للأوفيس والنت والمحاضرات الأونلاين",
+      "خامة HP ProBook متينة وتستحمل الاستخدام اليومي"
     ],
-    "description": "يجمع لابتوب HP ProBook 640 G2 بين الأداء العملي والاعتمادية العالية لإنجاز مهامك اليومية بكفاءة وسلاسة. بفضل تصميمه المدمج وسرعة استجابته، يعد خيارًا مثاليًا للطلاب ورواد الأعمال الذين يحتاجون إلى جهاز يعتمد عليه في العمل المكتبي والدراسة والتنقل المستمر.",
+    "description": "لاب عملي وخفيف للمذاكرة والشغل المكتبي بأقل تكلفة. هارد SSD بيخلي الويندوز يفتح في ثواني، وحجمه 14 بوصة سهل تشيله في الشنطة كل يوم.",
     "images": [
       "images/laptops/laptop-301-1.jpg",
       "images/laptops/laptop-301-2.jpg",
@@ -62,50 +61,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "INTEL CORE I5-8350U",
-      "ram": "8 DDR4",
-      "storage": "N.V/256",
-      "gpu": "INTEL 620",
-      "screen": "14.0 Led"
+      "cpu": "Intel Core i5-8350U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel UHD Graphics 620",
+      "screen": "14 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "INTEL CORE I5-8350U"
+        "value": "Intel Core i5-8350U"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "N.V/256"
+        "value": "256GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "INTEL 620"
+        "value": "Intel UHD Graphics 620"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "14.0 Led"
+        "label": "الشاشة",
+        "value": "14 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "قارئ الأقراص (DVD)",
-        "value": "NO DVD"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج Intel Core i5 يوفر أداءً سلساً ومستقراً للمهام اليومية وإدارة الأعمال",
-      "وحدة تخزين سريعة لتقليل وقت التشغيل وفتح البرامج والملفات بكفاءة عالية",
-      "ذاكرة عشوائية تدعم تعدد المهام وتشغيل التطبيقات المكتبية بسلاسة تامة",
-      "شاشة بحجم 14 بوصة مدمجة ومريحة للعمل والتنقل المستمر",
-      "كاميرا مدمجة تسهل حضور الاجتماعات الافتراضية والدروس عبر الإنترنت"
+      "معالج i5 جيل ثامن بـ 4 أنوية",
+      "هارد NVMe أسرع من الـ SSD العادي",
+      "مناسب للشغل المكتبي والدراسة وتعدد المهام",
+      "تصميم Latitude العملي المعروف بالاعتمادية"
     ],
-    "description": "يعد لابتوب ديل 5400 خياراً عملياً وموثوقاً يجمع بين كفاءة الأداء وسهولة التنقل لإنجاز مهامك اليومية بسلاسة. تم تصميمه ليناسب بيئات العمل والدراسة بفضل استجابته السريعة وتصميمه المدمج الذي يسهل حمله في أي مكان. يمنحك تجربة استخدام مريحة ومتوازنة تلبي متطلبات التصفح المتقدم والأعمال المكتبية بكل ثقة.",
+    "description": "Dell Latitude من فئة البيزنس بمعالج جيل ثامن رباعي الأنوية. سريع ومستقر في الشغل اليومي ووزنه مناسب للتنقل.",
     "images": [
       "images/laptops/laptop-265-1.jpg",
       "images/laptops/laptop-265-2.jpg",
@@ -123,10 +117,10 @@ const LAPTOPS = [
     "available": true,
     "quick": {
       "cpu": "Intel Core i5-7400U",
-      "ram": "8 DDR4",
-      "storage": "ssd 256g",
+      "ram": "8GB DDR4",
+      "storage": "256GB SSD",
       "gpu": "Intel HD Graphics 520",
-      "screen": "15.6 Led"
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
@@ -134,33 +128,33 @@ const LAPTOPS = [
         "value": "Intel Core i5-7400U"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 256g"
+        "value": "256GB SSD"
       },
       {
         "label": "كارت الشاشة",
         "value": "Intel HD Graphics 520"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج Intel Core i5 وسرعة استجابة فائقة بفضل وحدة التخزين SSD لفتح الملفات والتطبيقات في ثوانٍ معدودة.",
-      "ذاكرة عشوائية DDR4 بحجم 8 جيجابايت لتعدد مهام سلس والتنقل بسهولة بين البرامج وصفحات الويب.",
-      "شاشة LED واسعة مقاس 15.6 بوصة لعرض مريح للبيانات وجداول العمل دون إجهاد للعين.",
-      "كاميرا مدمجة تسهل حضور الاجتماعات الافتراضية ومتابعة المحاضرات والدروس عبر الإنترنت."
+      "شاشة 15.6 بوصة واسعة ومريحة",
+      "SSD لسرعة في التشغيل والاستجابة",
+      "مناسب للمكاتب والطلبة والشغل على الإكسل",
+      "كيبورد كامل بأرقام جانبية"
     ],
-    "description": "يعد لابتوب HP ProBook 650 G3 خيارًا عمليًا وموثوقًا لإنجاز المهام اليومية والعمل المكتبي بكل سلاسة، بفضل المعالج المتوازن وسرعة استجابة وحدات التخزين الحديثة. يمنحك تصميمه المتين وشاشته الواسعة تجربة مريحة في متابعة أعمالك وعقد الاجتماعات الافتراضية بوضوح تام، مما يجعله مثاليًا للشركات والطلاب على حد سواء.",
+    "description": "شاشة كبيرة 15.6 بوصة مريحة للعين في الشغل الطويل، مع أداء ثابت للمهام اليومية. اختيار كويس لو بتدور على شاشة واسعة بسعر معقول.",
     "images": [
       "images/laptops/laptop-379-1.jpg",
       "images/laptops/laptop-379-2.jpg",
@@ -176,46 +170,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "Core i5-8350U",
-      "ram": "8 DDR4",
-      "storage": "ssd 256 m.2",
-      "gpu": "intel hd 620",
-      "screen": "15.6 Led"
+      "cpu": "Intel Core i5-8350U",
+      "ram": "8GB DDR4",
+      "storage": "256GB M.2 SSD",
+      "gpu": "Intel UHD Graphics 620",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Core i5-8350U"
+        "value": "Intel Core i5-8350U"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 256 m.2"
+        "value": "256GB M.2 SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "intel hd 620"
+        "value": "Intel UHD Graphics 620"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج Core i5 من الجيل الثامن لإنجاز مهام العمل والتعليم بكفاءة واستقرار.",
-      "وحدة تخزين SSD سريعة تمنحك إقلاعًا خاطفًا للنظام وسرعة في فتح الملفات.",
-      "ذاكرة عشوائية DDR4 بحجم 8 جيجابايت لتعدد مهام سلس وتصفح مريح.",
-      "شاشة واسعة مقاس 15.6 بوصة بدقة Full HD تمنحك مساحة رؤية مريحة أثناء العمل الطويل.",
-      "كاميرا مدمجة مثالية لحضور الاجتماعات الافتراضية ومتابعة المحاضرات عن بُعد."
+      "معالج i5 جيل ثامن بـ 4 أنوية",
+      "شاشة كبيرة مناسبة للشغل والمذاكرة",
+      "SSD سريع في كل حاجة",
+      "كيبورد كامل مريح في الكتابة الكتير"
     ],
-    "description": "يجمع لابتوب Dell Latitude 5590 بين الأداء العملي والاعتمادية الفائقة لتلبية احتياجات العمل اليومي والدراسة بسلاسة. بفضل معالج إنتل القوي وسرعة التخزين الحديثة، يضمن لك الجهاز استجابة سريعة وتجربة استخدام مريحة مع شاشته الكبيرة التي تعرض التفاصيل بوضوح.",
+    "description": "Latitude بشاشة 15.6 بوصة ومعالج جيل ثامن رباعي الأنوية. توازن حلو بين الأداء والسعر والشاشة الكبيرة.",
     "images": [
       "images/laptops/laptop-369-1.jpg",
       "images/laptops/laptop-369-2.jpg",
@@ -233,10 +226,10 @@ const LAPTOPS = [
     "available": true,
     "quick": {
       "cpu": "Intel Core i5-1135G7",
-      "ram": "8 DDR4",
-      "storage": "256GB PCIe NVMe SSD",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
       "gpu": "Intel Iris Xe Graphics",
-      "screen": "14.0 Led"
+      "screen": "14 بوصة لمس"
     },
     "specs": [
       {
@@ -244,38 +237,33 @@ const LAPTOPS = [
         "value": "Intel Core i5-1135G7"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "256GB PCIe NVMe SSD"
+        "value": "256GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
         "value": "Intel Iris Xe Graphics"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "14.0 Led"
+        "label": "الشاشة",
+        "value": "14 بوصة لمس"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "tuch"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "أداء قوي وسلس لإنجاز المهام المتعددة بفضل معالج Intel Core i5 من الجيل الحادي عشر.",
-      "شاشة لمس بدقة FHD مقاس 14 بوصة تمنحك تحكمًا تفاعليًا ورؤية واضحة ومريحة.",
-      "سرعة فائقة في تشغيل النظام والبرامج مع وحدة التخزين السريعة PCIe NVMe SSD.",
-      "رسوميات مدمجة متطورة Intel Iris Xe لتجربة عرض بصرية ممتازة ومحتوى ترفيهي سلس.",
-      "كاميرا مدمجة تسهل عليك حضور الاجتماعات والمحاضرات عبر الإنترنت بوضوح."
+      "معالج i5 جيل 11 حديث",
+      "شاشة 14 بوصة تاتش",
+      "كارت Iris Xe يشغل مونتاج خفيف وألعاب بسيطة",
+      "وزن خفيف مناسب للتنقل اليومي"
     ],
-    "description": "",
+    "description": "لاب حديث بمعالج جيل حادي عشر وشاشة لمس، خفيف جداً وسهل في الحمل. كارت Iris Xe بيدي أداء أحسن بكتير من الكروت المدمجة القديمة.",
     "images": [
       "images/laptops/laptop-355-1.jpg",
       "images/laptops/laptop-355-2.jpg",
@@ -291,49 +279,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "intel core i5-6440 hq",
-      "ram": "8g ddr4-2400",
-      "storage": "256 ssd",
-      "screen": "15.6 Led"
+      "cpu": "Intel Core i5-6440HQ",
+      "ram": "8GB DDR4",
+      "storage": "256GB SSD",
+      "gpu": "Intel HD Graphics 530",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "intel core i5-6440 hq"
+        "value": "Intel Core i5-6440HQ"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8g ddr4-2400"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "256 ssd"
+        "value": "256GB SSD"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "كارت الشاشة",
+        "value": "Intel HD Graphics 530"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "قارئ الأقراص (DVD)",
-        "value": "NO DVD"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج Intel Core i5 من الفئة HQ يمنحك أداءً قويًا ومستقرًا لتطبيقات العمل الشاقة.",
-      "وحدة تخزين SSD M.2 فائقة السرعة تضمن إقلاع النظام وتشغيل البرامج في ثوانٍ.",
-      "ذاكرة عشوائية DDR4 بحجم 8 جيجابايت تتيح إنجاز عدة مهام في وقت واحد بسلاسة.",
-      "شاشة واسعة 15.6 بوصة تمنحك رؤية تفصيلية ومريحة أثناء العمل والمشاهدة.",
-      "كاميرا مدمجة تسهل حضور الاجتماعات الافتراضية ومكالمات الفيديو بوضوح."
+      "معالج HQ رباعي الأنوية من فئة الأداء العالي",
+      "بودي ZBook متين بمعايير محطات العمل",
+      "شاشة 15.6 بوصة",
+      "مناسب لبرامج الهندسة الخفيفة والبرمجة"
     ],
-    "description": "يجمع لابتوب ورك ستيشن HP ZBook 15 G3 بين القوة والاعتمادية لإنجاز المهام الهندسية والمكتبية المتقدمة بكفاءة عالية. صُمم هذا الجهاز ليمنحك تجربة استخدام سلسة بفضل المعالج عالي الأداء ووحدة التخزين السريعة. كما تتيح لك شاشته الواسعة مساحة عرض واضحة ومريحة لجميع ساعات العمل الطويلة.",
+    "description": "ورك ستيشن HP ZBook بهيكل قوي ومعالج HQ رباعي الأنوية. بداية كويسة لطلبة الهندسة والبرامج اللي محتاجة معالج قوي بسعر مناسب.",
     "images": [
       "images/laptops/laptop-300-1.jpg",
       "images/laptops/laptop-300-2.jpg",
@@ -350,50 +334,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "Intel® Core™ i5-1145G7",
-      "ram": "8 DDR4",
-      "storage": "ssd 256 n.v",
-      "gpu": "Intel® Iris® Xe Graphics",
-      "screen": "13.3 tuch"
+      "cpu": "Intel Core i5-1145G7",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel Iris Xe Graphics",
+      "screen": "13.3 بوصة لمس"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Intel® Core™ i5-1145G7"
+        "value": "Intel Core i5-1145G7"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 256 n.v"
+        "value": "256GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "Intel® Iris® Xe Graphics"
+        "value": "Intel Iris Xe Graphics"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "13.3 tuch"
+        "label": "الشاشة",
+        "value": "13.3 بوصة لمس"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "tuch"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "شاشة لمس بدقة Full HD تمنحك تحكمًا مرنًا وسهولة في التنقل والعرض.",
-      "معالج Intel Core i5 من الجيل الحادي عشر يضمن أداءً قويًا ومستقرًا للأعمال اليومية.",
-      "وحدة تخزين SSD سريعة تتيح إقلاع النظام وتشغيل البرامج في ثوانٍ معدودة.",
-      "حجم مدمج 13.3 بوصة يسهل حمله والتنقل به للمحترفين والطلاب.",
-      "كاميرا مدمجة تدعم إجراء الاجتماعات والمكالمات المرئية بوضوح."
+      "معالج i5 جيل 11 بدعم vPro",
+      "شاشة 13.3 بوصة تاتش",
+      "حجم صغير ووزن خفيف جداً",
+      "كارت Iris Xe لأداء رسومي أفضل"
     ],
-    "description": "",
+    "description": "لاب صغير 13.3 بوصة بشاشة لمس ومعالج جيل حادي عشر. مثالي لو بتتنقل كتير ومحتاج جهاز سريع وخفيف.",
     "images": [
       "images/laptops/laptop-378-1.jpg",
       "images/laptops/laptop-378-2.jpg",
@@ -411,10 +390,10 @@ const LAPTOPS = [
     "available": true,
     "quick": {
       "cpu": "Intel Core i5-8265U",
-      "ram": "16 DDR4",
-      "storage": "256GB PCIe NVMe SSD",
+      "ram": "16GB DDR4",
+      "storage": "256GB NVMe SSD",
       "gpu": "Intel UHD Graphics 620",
-      "screen": "13.3 tuch"
+      "screen": "13.3 بوصة لمس"
     },
     "specs": [
       {
@@ -422,37 +401,33 @@ const LAPTOPS = [
         "value": "Intel Core i5-8265U"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR4"
+        "label": "الرامات",
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "256GB PCIe NVMe SSD"
+        "value": "256GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
         "value": "Intel UHD Graphics 620"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "13.3 tuch"
+        "label": "الشاشة",
+        "value": "13.3 بوصة لمس"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "tuch"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "شاشة لمس بدقة FHD وحجم 13.3 بوصة تمنحك تحكمًا تفاعليًا مباشرًا ورؤية واضحة من زوايا واسعة.",
-      "ذاكرة رام 16 جيجابايت لتعدد مهام سلس والتنقل بحرية بين التطبيقات المفتوحة بدون بطء.",
-      "وحدة تخزين SSD فائقة السرعة تضمن إقلاع النظام وتشغيل البرامج في ثوانٍ معدودة.",
-      "تصميم نحيف وخفيف مع كاميرا مدمجة يجعله مثاليًا للاجتماعات عن بُعد والعمل أثناء التنقل."
+      "تصميم x360 يتقلب ويستخدم كتابلت",
+      "رامات 16 جيجا لتعدد مهام براحة",
+      "شاشة 13.3 بوصة تاتش",
+      "بودي معدن أنيق وخفيف"
     ],
-    "description": "يجمع لابتوب HP EliteBook x360 1030 G4 بين الأناقة والإنتاجية العالية في تصميم مدمج بشاشة لمس عملية وسريعة الاستجابة. يقدم الجهاز أداءً سلسًا وموثوقًا لإنجاز مهام العمل اليومية والدراسة بفضل ذاكرته الكبيرة ووحدة التخزين فائقة السرعة. يُعد الرفيق المثالي لرواد الأعمال والطلاب كثيري التنقل الباحثين عن سهولة الحمل مع كفاءة التشغيل.",
+    "description": "EliteBook x360 بيتقلب 360 درجة ويتحول لتابلت، بشاشة لمس ورامات 16 جيجا. أناقة وخفة مع أداء مريح لتعدد المهام.",
     "images": [
       "images/laptops/laptop-351-1.jpg",
       "images/laptops/laptop-351-2.jpg",
@@ -470,10 +445,10 @@ const LAPTOPS = [
     "available": true,
     "quick": {
       "cpu": "Intel Core i5-1145G7",
-      "ram": "8 DDR4",
-      "storage": "ssd 256 n.v",
-      "gpu": "Intel Iris Xe",
-      "screen": "14.0 Led"
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel Iris Xe Graphics",
+      "screen": "14 بوصة"
     },
     "specs": [
       {
@@ -481,33 +456,33 @@ const LAPTOPS = [
         "value": "Intel Core i5-1145G7"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 256 n.v"
+        "value": "256GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "Intel Iris Xe"
+        "value": "Intel Iris Xe Graphics"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "14.0 Led"
+        "label": "الشاشة",
+        "value": "14 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "أداء قوي وسلس في تصفح الويب وتطبيقات العمل المكتبية اليومية.",
-      "سرعة فائقة في تشغيل النظام ونقل الملفات بفضل وحدة التخزين السريعة.",
-      "شاشة مقاس 14 بوصة بدقة عالية توفر تجربة مشاهدة واضحة ومريحة لساعات العمل الطويلة.",
-      "كاميرا مدمجة تسهل حضور الاجتماعات الافتراضية والتواصل في التعليم عن بُعد."
+      "معالج i5 جيل 11 بدعم vPro",
+      "هارد NVMe سريع",
+      "كارت Iris Xe",
+      "تصميم EliteBook المعدن الخفيف"
     ],
-    "description": "يعد لابتوب HP 840 G8 خيارًا مثاليًا للمحترفين والطلاب بفضل تصميمه العملي وسرعة استجابته للمهام اليومية. يجمع الجهاز بين الأداء السلس وشاشة واضحة ومريحة للعين، مما يجعله رفيقك الموثوق لإنجاز أعمالك المكتبية وحضور الاجتماعات عبر الإنترنت بكل سهولة.",
+    "description": "EliteBook حديث بمعالج جيل حادي عشر وتصميم معدن أنيق. سريع جداً في الشغل اليومي والاجتماعات الأونلاين.",
     "images": [
       "images/laptops/laptop-360-1.jpg",
       "images/laptops/laptop-360-2.jpg",
@@ -524,49 +499,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "AMD Ryzen5 Pro 5650U",
-      "ram": "8 DDR4",
-      "storage": "N.V/256",
+      "cpu": "AMD Ryzen 5 Pro 5650U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
       "gpu": "AMD Radeon Graphics",
-      "screen": "15.6 Led"
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "AMD Ryzen5 Pro 5650U"
+        "value": "AMD Ryzen 5 Pro 5650U"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "N.V/256"
+        "value": "256GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
         "value": "AMD Radeon Graphics"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "قارئ الأقراص (DVD)",
-        "value": "NO DVD"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج أعمال قوي يوفر سرعة استجابة فائقة وكفاءة عالية في التعامل مع البرامج المختلفة.",
-      "وحدة تخزين سريعة تسهم في تشغيل النظام وفتح الملفات دون أي تأخير ملحوظ.",
-      "شاشة بمقاس مريح تتيح مساحة عمل واسعة للإنتاجية ومشاهدة المحتوى بوضوح.",
-      "كاميرا مدمجة تسهل حضور الاجتماعات الافتراضية والتواصل عبر الإنترنت باحترافية."
+      "معالج Ryzen 5 Pro بـ 6 أنوية",
+      "كارت Radeon مدمج قوي",
+      "شاشة 15.6 بوصة",
+      "بودي EliteBook المعدن"
     ],
-    "description": "",
+    "description": "معالج Ryzen 5 Pro بـ 6 أنوية و12 ثريد في EliteBook بشاشة 15.6 بوصة. أداء قوي في تعدد المهام مع بطارية كويسة.",
     "images": [
       "images/laptops/laptop-281-1.jpg",
       "images/laptops/laptop-281-2.jpg",
@@ -581,45 +552,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "Intel Core i7-10810u",
-      "ram": "8 DDR4",
-      "storage": "ssd 256 n.v",
-      "gpu": "intel uhd-graphics",
-      "screen": "15.6 Led"
+      "cpu": "Intel Core i7-10810U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel UHD Graphics",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Intel Core i7-10810u"
+        "value": "Intel Core i7-10810U"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "8 DDR4"
+        "label": "الرامات",
+        "value": "8GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 256 n.v"
+        "value": "256GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "intel uhd-graphics"
+        "value": "Intel UHD Graphics"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج Intel Core i7 يمنحك سرعة فائقة في معالجة البيانات وإنجاز المهام اليومية.",
-      "وحدة تخزين NVMe SSD سريعة تضمن إقلاع النظام وتشغيل البرامج في ثوانٍ معدودة.",
-      "شاشة واسعة مقاس 15.6 بوصة بدقة عالية توفر تجربة مشاهدة مريحة للمستندات والمحتوى.",
-      "كاميرا مدمجة تسهل حضور الاجتماعات الافتراضية والتواصل عبر الإنترنت بوضوح."
+      "معالج i7 جيل 10 بـ 6 أنوية",
+      "شاشة 15.6 بوصة",
+      "هارد NVMe سريع",
+      "مناسب للبرمجة والشغل على ملفات كبيرة"
     ],
-    "description": "يجمع لابتوب Dell Latitude 5510 بين الأداء العملي والاعتمادية الفائقة لتلبية احتياجاتك اليومية في العمل والدراسة بكل سلاسة. يأتي الجهاز بشاشة واسعة ومريحة للعين مع سرعة استجابة ممتازة بفضل وحدة التخزين السريعة والمعالج القوي، مما يجعله خيارًا مثاليًا لإنجاز المهام المكتبية وإدارة الأعمال بكفاءة.",
+    "description": "Latitude بمعالج Core i7 جيل عاشر بـ 6 أنوية وشاشة 15.6 بوصة. قوة i7 بسعر معقول للشغل المكتبي التقيل.",
     "images": [
       "images/laptops/laptop-323-1.jpg",
       "images/laptops/laptop-323-2.jpg",
@@ -637,10 +608,10 @@ const LAPTOPS = [
     "available": true,
     "quick": {
       "cpu": "Intel Core i7-6820HQ",
-      "ram": "16 DDR4",
-      "storage": "ssd 512",
-      "gpu": "NVIDIA Quadro M2200 4g",
-      "screen": "15.6 Led"
+      "ram": "16GB DDR4",
+      "storage": "512GB SSD",
+      "gpu": "NVIDIA Quadro M2200 4GB",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
@@ -648,38 +619,33 @@ const LAPTOPS = [
         "value": "Intel Core i7-6820HQ"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR4"
+        "label": "الرامات",
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 512"
+        "value": "512GB SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "NVIDIA Quadro M2200 4g"
+        "value": "NVIDIA Quadro M2200 4GB"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج قوي يوفر أداءً سريعاً ومستقراً مع البرامج الثقيلة",
-      "كارت شاشة مخصص يدعم برامج التصميم الهندسي والجرافيك بكفاءة",
-      "ذاكرة رام سريعة تتيح تعدد المهام وتشغيل برامج متعددة بسلاسة",
-      "وحدة تخزين سريعة تسهم في تشغيل النظام والبرامج في ثوانٍ",
-      "شاشة واضحة بدقة فائقة توفر مساحة عرض مريحة للعمل الطويل"
+      "كارت NVIDIA Quadro M2200 بـ 4 جيجا",
+      "معالج i7 HQ رباعي الأنوية",
+      "رامات 16 جيجا وهارد 512",
+      "مناسب للأوتوكاد والـ 3D والبرامج الهندسية"
     ],
-    "description": "",
+    "description": "ورك ستيشن Dell Precision بكارت NVIDIA Quadro 4 جيجا ورامات 16. مناسب للأوتوكاد والريفيت والبرامج الهندسية بسعر قليل.",
     "images": [
       "images/laptops/laptop-346-1.jpg",
       "images/laptops/laptop-346-2.jpg",
@@ -697,10 +663,10 @@ const LAPTOPS = [
     "available": true,
     "quick": {
       "cpu": "Intel Core i7-6820HQ",
+      "ram": "16GB DDR4",
+      "storage": "512GB M.2 SSD",
       "gpu": "NVIDIA Quadro M2000M 4GB",
-      "storage": "m.2/ 512",
-      "ram": "16 DDR4",
-      "screen": "15.6 Led"
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
@@ -708,24 +674,33 @@ const LAPTOPS = [
         "value": "Intel Core i7-6820HQ"
       },
       {
-        "label": "كارت الشاشة",
-        "value": "Intel HD 520 + NVIDIA Quadro M2000M 4GB"
+        "label": "الرامات",
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "m.2/ 512"
+        "value": "512GB M.2 SSD"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR4"
+        "label": "كارت الشاشة",
+        "value": "NVIDIA Quadro M2000M 4GB"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
       }
     ],
-    "features": [],
-    "description": "",
+    "features": [
+      "كارت NVIDIA Quadro M2000M بـ 4 جيجا",
+      "معالج i7 HQ رباعي الأنوية",
+      "رامات 16 جيجا وهارد 512",
+      "مناسب للأوتوكاد والريفيت والـ SketchUp"
+    ],
+    "description": "ZBook 15 بمعالج i7 وكارت NVIDIA Quadro 4 جيجا ورامات 16. ورك ستيشن قوي لطلبة العمارة والهندسة.",
     "images": [
       "images/laptops/laptop-278-1.jpg",
       "images/laptops/laptop-278-2.jpg"
@@ -739,50 +714,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "i5-11500H",
-      "ram": "16 DDR4",
-      "storage": "ssd 512 n.v",
-      "gpu": "Intel UHD Graphics,",
-      "screen": "15.6 Led"
+      "cpu": "Intel Core i5-11500H",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "gpu": "Intel UHD Graphics",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "i5-11500H"
+        "value": "Intel Core i5-11500H"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR4"
+        "label": "الرامات",
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 512 n.v"
+        "value": "512GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "Intel UHD Graphics,"
+        "value": "Intel UHD Graphics"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج قوي من الفئة المتقدمة لإنجاز المهام المكتبية والهندسية بسرعة",
-      "ذاكرة عشوائية واسعة تتيح تشغيل عدة تطبيقات في وقت واحد دون بطء",
-      "وحدة تخزين سريعة تسهم في تشغيل النظام والبرامج في ثوانٍ معدودة",
-      "شاشة واسعة تمنحك مساحة عمل مريحة وتفاصيل بصرية واضحة",
-      "كاميرا مدمجة جاهزة لإجراء الاجتماعات المرئية ومكالمات العمل"
+      "معالج i5 جيل 11 فئة H بـ 6 أنوية",
+      "رامات 16 جيجا وهارد NVMe 512",
+      "بودي Precision بمعايير محطات العمل",
+      "مناسب للبرمجة والتحليل والشغل التقيل"
     ],
-    "description": "يقدم لابتوب ديل محطة عمل متكاملة مصممة لإنجاز المهام الاحترافية بكفاءة وثبات عاليين. بفضل المعالج القوي والذاكرة السريعة، ستحصل على تجربة سلسة في معالجة البيانات وإدارة مختلف مشاريع العمل اليومية. تصميمه المتين وشاشته المريحة يجعلان منه خيارًا مثاليًا للشركات ورواد الأعمال الباحثين عن اعتمادية استثنائية.",
+    "description": "Dell Precision حديث بمعالج H من الجيل الحادي عشر بـ 6 أنوية ورامات 16 جيجا. أداء عالي وثابت للشغل الاحترافي وتعدد المهام.",
     "images": [
       "images/laptops/laptop-381-1.jpg",
       "images/laptops/laptop-381-2.jpg",
@@ -800,10 +770,10 @@ const LAPTOPS = [
     "available": true,
     "quick": {
       "cpu": "Intel Xeon W-11955M",
-      "ram": "16 DDR4",
-      "storage": "ssd 512 n.v",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
       "gpu": "Intel UHD Graphics",
-      "screen": "15.6 Led"
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
@@ -811,38 +781,33 @@ const LAPTOPS = [
         "value": "Intel Xeon W-11955M"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR4"
+        "label": "الرامات",
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "ssd 512 n.v"
+        "value": "512GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
         "value": "Intel UHD Graphics"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج قوي من فئة محطات العمل لإنجاز المهام المتعددة بكفاءة",
-      "ذاكرة رام سريعة تتيح تشغيل عدة برامج معًا دون بطء",
-      "وحدة تخزين سريعة جدًا لتحميل النظام ونقل الملفات في ثوانٍ",
-      "شاشة واسعة بتقنية مقاومة التوهج لتجربة رؤية مريحة أثناء العمل",
-      "كاميرا مدمجة جاهزة لحضور الاجتماعات والدروس عبر الإنترنت بوضوح"
+      "معالج Xeon W بـ 8 أنوية و16 ثريد",
+      "رامات 16 جيجا وهارد NVMe 512",
+      "ثبات عالي للشغل المتواصل",
+      "مناسب للمحاكاة والبرمجة والحسابات التقيلة"
     ],
-    "description": "",
+    "description": "Precision بمعالج Intel Xeon بـ 8 أنوية، من أقوى المعالجات في اللابات. مصمم للشغل الاحترافي اللي محتاج ثبات تام لساعات طويلة.",
     "images": [
       "images/laptops/laptop-380-1.jpg",
       "images/laptops/laptop-380-2.jpg",
@@ -870,54 +835,45 @@ const LAPTOPS = [
     ],
     "available": true,
     "quick": {
-      "cpu": "core i7-10850h",
-      "ram": "32 DDR4",
-      "storage": "N.V/512",
-      "gpu": "NVIDIA QUADRO T2000 4G",
-      "screen": "15.6 Led"
+      "cpu": "Intel Core i7-10850H",
+      "ram": "32GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA Quadro T2000 4GB",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "core i7-10850h"
+        "value": "Intel Core i7-10850H"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "32 DDR4"
+        "label": "الرامات",
+        "value": "32GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "N.V/512"
+        "value": "512GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "NVIDIA QUADRO T2000 4G"
+        "value": "NVIDIA Quadro T2000 4GB"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "قارئ الأقراص (DVD)",
-        "value": "NO DVD"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج قوي يوفر أداءً فائقًا لمعالجة المهام البرمجية والتصميمية الثقيلة.",
-      "سعة رامات ضخمة تمنحك حرية تشغيل البرامج المتعددة والتبديل بينها بسرعة.",
-      "كارت شاشة احترافي مخصص لتشغيل برامج الرندر والمونتاج والأعمال الهندسية.",
-      "وحدة تخزين سريعة تسهم في إقلاع النظام وتشغيل الملفات الكبيرة في ثوانٍ.",
-      "شاشة بمساحة مريحة وتفاصيل واضحة لتعزيز إنتاجيتك في العمل اليومي."
+      "كارت NVIDIA Quadro T2000 بـ 4 جيجا",
+      "معالج i7 جيل 10 بـ 6 أنوية",
+      "متاح برامات 16 أو 32 جيجا",
+      "تصميم نحيف وبودي ألمونيوم"
     ],
-    "description": "",
+    "description": "Precision 5550 نحيف وأنيق جداً بمعالج i7 بـ 6 أنوية وكارت NVIDIA Quadro T2000. قوة ورك ستيشن في شكل لاب خفيف.",
     "images": [
       "images/laptops/laptop-296-1.webp",
       "images/laptops/laptop-296-2.webp",
@@ -934,53 +890,45 @@ const LAPTOPS = [
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "Intel Xeon W-10855M (6 Cores, 12MB Cache, up to 5.10 GHz)",
-      "ram": "16 DDR4",
-      "storage": "N.V/512",
-      "gpu": "NVIDIA QUDRO RTX 3000 6G",
-      "screen": "15.6 Led"
+      "cpu": "Intel Xeon W-10855M",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA Quadro RTX 3000 6GB",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Intel Xeon W-10855M (6 Cores, 12MB Cache, up to 5.10 GHz)"
+        "value": "Intel Xeon W-10855M"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR4"
+        "label": "الرامات",
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "N.V/512"
+        "value": "512GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "NVIDIA QUDRO RTX 3000 6G"
+        "value": "NVIDIA Quadro RTX 3000 6GB"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "قارئ الأقراص (DVD)",
-        "value": "NO DVD"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج Xeon فئة محطات العمل لإنجاز الحسابات المعقدة والمهام الشاقة بثبات تام",
-      "بطاقة رسوميات كوادرو احترافية متخصصة لبرامج الهندسة والتصميم ثلاثي الأبعاد والرندر",
-      "وحدة تخزين سريعة تسهم في تشغيل النظام ونقل الملفات الضخمة في ثوانٍ",
-      "ذاكرة عشوائية مخصصة لتعدد المهام وسلاسة العمل على أكثر من تطبيق في وقت واحد"
+      "كارت Quadro RTX 3000 بـ 6 جيجا",
+      "معالج Xeon W بـ 6 أنوية حتى 5.1 جيجاهرتز",
+      "مناسب للريندر والـ 3ds Max والمونتاج",
+      "هارد NVMe سريع 512"
     ],
-    "description": "",
+    "description": "ورك ستيشن احترافي بمعالج Xeon وكارت NVIDIA Quadro RTX 3000 بـ 6 جيجا. مناسب للريندر والمونتاج والتصميم ثلاثي الأبعاد.",
     "images": [
       "images/laptops/laptop-293-1.jpg",
       "images/laptops/laptop-293-2.jpg",
@@ -1008,49 +956,45 @@ const LAPTOPS = [
     ],
     "available": true,
     "quick": {
-      "cpu": "Intel Core i7-12700H (up to 4.7 GHz, 14 cores)",
-      "ram": "16 DDR5",
-      "storage": "ssd 512 n.v",
-      "gpu": "NVIDIA RTX A2000 (8 GB GDDR6)",
-      "screen": "15.6 Led"
+      "cpu": "Intel Core i7-12700H",
+      "ram": "16GB DDR5",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA RTX A2000 8GB",
+      "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Intel Core i7-12700H (up to 4.7 GHz, 14 cores)"
+        "value": "Intel Core i7-12700H"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR5"
+        "label": "الرامات",
+        "value": "16GB DDR5"
       },
       {
         "label": "التخزين",
-        "value": "ssd 512 n.v"
+        "value": "512GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "NVIDIA RTX A2000 (8 GB GDDR6)"
+        "value": "NVIDIA RTX A2000 8GB"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "15.6 Led"
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "معالج قوي متعدد الأنوية لإنجاز المهام الهندسية والبرمجية المعقدة بسلاسة.",
-      "كارت شاشة احترافي مخصص لتطبيقات التصميم والنمذجة ثلاثية الأبعاد والمونتاج.",
-      "ذاكرة وصول عشوائي سريعة تدعم تعدد المهام وتشغيل البرامج الثقيلة بكفاءة.",
-      "وحدة تخزين سريعة تسهم في تشغيل النظام والملفات الضخمة بدون تأخير."
+      "معالج i7 جيل 12 بـ 14 نواة",
+      "كارت NVIDIA RTX A2000 بـ 8 جيجا",
+      "رامات DDR5 الأحدث، متاح 16 أو 32 جيجا",
+      "مناسب للريندر والمونتاج 4K والذكاء الاصطناعي"
     ],
-    "description": "",
+    "description": "ZBook حديث بمعالج i7 جيل 12 بـ 14 نواة ورامات DDR5 وكارت NVIDIA RTX A2000 بـ 8 جيجا. أداء عالي جداً لصناع المحتوى والمهندسين.",
     "images": [
       "images/laptops/laptop-354-1.jpg",
       "images/laptops/laptop-354-2.jpg",
@@ -1088,53 +1032,45 @@ const LAPTOPS = [
     ],
     "available": true,
     "quick": {
-      "cpu": "intel core i.9-12950hx",
-      "ram": "16 DDR5",
-      "storage": "N.V/512",
-      "gpu": "intel hd graphics, nvidia rtx a4500 16g",
-      "screen": "16 Led"
+      "cpu": "Intel Core i9-12950HX",
+      "ram": "16GB DDR5",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA RTX A4500 16GB",
+      "screen": "16 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "intel core i.9-12950hx"
+        "value": "Intel Core i9-12950HX"
       },
       {
-        "label": "الرامات (الذاكرة)",
-        "value": "16 DDR5"
+        "label": "الرامات",
+        "value": "16GB DDR5"
       },
       {
         "label": "التخزين",
-        "value": "N.V/512"
+        "value": "512GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "intel hd graphics, nvidia rtx a4500 16g"
+        "value": "NVIDIA RTX A4500 16GB"
       },
       {
-        "label": "مقاس الشاشة",
-        "value": "16 Led"
+        "label": "الشاشة",
+        "value": "16 بوصة"
       },
       {
         "label": "الكاميرا",
-        "value": "CAM"
-      },
-      {
-        "label": "قارئ الأقراص (DVD)",
-        "value": "NO DVD"
-      },
-      {
-        "label": "نوع الجهاز",
-        "value": "work station"
+        "value": "مدمجة"
       }
     ],
     "features": [
-      "أداء استثنائي في الرندرة والتصميم ثلاثي الأبعاد بفضل كارت الشاشة المتخصص RTX A4500",
-      "معالجة فائقة السرعة للمهام البرمجية والهندسية المعقدة مع معالج Core i9 المتقدم",
-      "سرعة استجابة هائلة وإقلاع فوري للنظام والبرامج مع وحدة التخزين NVMe السريعة",
-      "مساحة عرض رحبة على شاشة 16 بوصة لتفاصيل أدق أثناء التصميم والعمل المتواصل"
+      "معالج i9 جيل 12 بـ 16 نواة",
+      "كارت NVIDIA RTX A4500 بـ 16 جيجا",
+      "رامات DDR5 متاحة لحد 64 جيجا",
+      "للريندر التقيل والـ AI والمحاكاة الهندسية"
     ],
-    "description": "",
+    "description": "أقوى جهاز عندنا: معالج Core i9 بـ 16 نواة وكارت NVIDIA RTX A4500 بـ 16 جيجا وشاشة 16 بوصة. ورك ستيشن مفيش حاجة تقف قدامه.",
     "images": [
       "images/laptops/laptop-299-1.jpg",
       "images/laptops/laptop-299-2.jpg",

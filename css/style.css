@@ -572,6 +572,28 @@ ul {
   flex: 1 1 180px;
 }
 
+.policy {
+  display: grid;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-2);
+  font-size: 14px;
+}
+
+.policy li {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.policy i {
+  width: 18px;
+  color: var(--main-2);
+}
+
 .specs-table {
   width: 100%;
   border-collapse: collapse;
