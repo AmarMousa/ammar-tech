@@ -48,7 +48,8 @@ const LAPTOPS = [
     ],
     "description": "أرخص لاب عندنا، مناسب جداً للأوفيس والمذاكرة والنت. شاشة 15.6 بوصة ومساحة تخزين كبيرة.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/pb650g2-1.jpg",
+      "images/laptops/pb650g2-2.jpg"
     ]
   },
   {
@@ -152,7 +153,7 @@ const LAPTOPS = [
     ],
     "description": "Core i7 بأقل سعر. Latitude 14 بوصة عملي ومتين للشغل والمذاكرة.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/lat5490-1.jpg"
     ]
   },
   {
@@ -203,7 +204,7 @@ const LAPTOPS = [
     ],
     "description": "معالج i7 HQ وكارت شاشة منفصل 2 جيجا بأقل سعر. مناسب لبداية البرامج الهندسية والجرافيك الخفيف.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/lat5570-1.jpg"
     ]
   },
   {
@@ -254,7 +255,7 @@ const LAPTOPS = [
     ],
     "description": "Core i7 بشاشة 15.6 بوصة بسعر قليل. مناسب للشغل المكتبي والمذاكرة.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/lat5500-1.jpg"
     ]
   },
   {
@@ -305,7 +306,8 @@ const LAPTOPS = [
     ],
     "description": "معالج Ryzen 5 بـ 6 أنوية في EliteBook خفيف بسعر ممتاز. من أحسن الاختيارات في فئته للطلبة.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/eb845g7-1.jpg",
+      "images/laptops/eb845g7-2.jpg"
     ]
   },
   {
@@ -516,7 +518,8 @@ const LAPTOPS = [
     ],
     "description": "EliteBook بمعالج Ryzen 5 Pro 5650U بـ 6 أنوية. أداء سريع وبطارية كويسة في تصميم معدن أنيق.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/eb845g7-1.jpg",
+      "images/laptops/eb845g7-2.jpg"
     ]
   },
   {
@@ -567,7 +570,9 @@ const LAPTOPS = [
     ],
     "description": "تابلت ولاب 2 في 1 بكيبورد بيتفك ومعالج Core i7 ورامات 16 جيجا. صغير جداً وسهل في أي مكان.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/lat5290-1.jpg",
+      "images/laptops/lat5290-2.jpg",
+      "images/laptops/lat5290-3.jpg"
     ]
   },
   {
@@ -673,7 +678,7 @@ const LAPTOPS = [
     ],
     "description": "لاب وتابلت 2 في 1 بيتقلب 360 درجة بشاشة لمس. صغير وخفيف ومناسب للمذاكرة والتنقل.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/eb830x360g6-1.jpg"
     ]
   },
   {
@@ -724,7 +729,8 @@ const LAPTOPS = [
     ],
     "description": "EliteBook بشاشة 15.6 بوصة ومعالج Ryzen 7 وكارت Vega 10. مناسب للشغل والتصميم الخفيف.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/eb755g5-1.jpg",
+      "images/laptops/eb755g5-2.jpg"
     ]
   },
   {
@@ -939,7 +945,8 @@ const LAPTOPS = [
     ],
     "description": "Ryzen 7 Pro بـ 8 أنوية و16 ثريد مع رامات 16 جيجا. قوة كبيرة في لاب 14 بوصة خفيف.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/eb845g7-1.jpg",
+      "images/laptops/eb845g7-2.jpg"
     ]
   },
   {
@@ -990,7 +997,8 @@ const LAPTOPS = [
     ],
     "description": "EliteBook حديث بمعالج Ryzen 5 Pro ورامات DDR5 وكارت Radeon 660M. أداء ممتاز للشغل والدراسة في جسم خفيف.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/eb845g9-1.jpg",
+      "images/laptops/eb845g9-2.jpg"
     ]
   },
   {
@@ -1041,7 +1049,7 @@ const LAPTOPS = [
     ],
     "description": "Precision بمعالج جيل 11 ورامات 16 جيجا وشاشة 15.6 بوصة. سريع وعملي للشغل اليومي والمكتبي التقيل.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/prec3560-1.jpg"
     ]
   },
   {
@@ -1257,7 +1265,9 @@ const LAPTOPS = [
     ],
     "description": "أحدث EliteBook عندنا بمعالج Ryzen 5 Pro 7540U ورامات DDR5. سريع وخفيف وشاشته ألوانها دقيقة 100% sRGB.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/eb845g10-1.jpg",
+      "images/laptops/eb845g10-2.jpg",
+      "images/laptops/eb845g10-3.jpg"
     ]
   },
   {
@@ -1361,7 +1371,8 @@ const LAPTOPS = [
     ],
     "description": "تابلت ولاب 2 في 1 بكيبورد بيتفك. شاشة لمس ومعالج جيل 11 ورامات 16 جيجا.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/elitex2g8-1.jpg",
+      "images/laptops/elitex2g8-2.jpg"
     ]
   },
   {
@@ -1412,7 +1423,8 @@ const LAPTOPS = [
     ],
     "description": "من أرخص الورك ستيشن بكارت منفصل: i7 بـ 6 أنوية وNVIDIA P1000. بداية ممتازة لطلبة الهندسة.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/prec7540-1.jpg",
+      "images/laptops/prec7540-2.jpg"
     ]
   },
   {
@@ -1463,7 +1475,9 @@ const LAPTOPS = [
     ],
     "description": "ZBook 15 بمعالج i7 بـ 6 أنوية وكارت NVIDIA P1000 ومساحة تخزين كبيرة. ورك ستيشن عملي بسعر مناسب.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/zbook15g5g6-1.jpg",
+      "images/laptops/zbook15g5g6-2.jpg",
+      "images/laptops/zbook15g5g6-3.jpg"
     ]
   },
   {
@@ -1624,7 +1638,7 @@ const LAPTOPS = [
     ],
     "description": "Precision 5530 نحيف بتصميم شبه XPS ومعالج i7 بـ 6 أنوية وكارت NVIDIA P1000. أقل سعر لورك ستيشن بالشكل ده.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/prec5530-1.jpg"
     ]
   },
   {
@@ -1727,7 +1741,9 @@ const LAPTOPS = [
     ],
     "description": "ورك ستيشن ZBook بمعالج i7 جيل تاسع بـ 6 أنوية وكارت NVIDIA Quadro T1000. اختيار قوي لطلبة الهندسة والعمارة.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/zbook15g5g6-1.jpg",
+      "images/laptops/zbook15g5g6-2.jpg",
+      "images/laptops/zbook15g5g6-3.jpg"
     ]
   },
   {
@@ -1778,7 +1794,8 @@ const LAPTOPS = [
     ],
     "description": "ورك ستيشن Precision بمعالج i7 جيل 9 بـ 6 أنوية وكارت NVIDIA T1000. قوي ومتين للشغل الهندسي.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/prec7540-1.jpg",
+      "images/laptops/prec7540-2.jpg"
     ]
   },
   {
@@ -2104,7 +2121,9 @@ const LAPTOPS = [
     ],
     "description": "ZBook Fury من أقوى أجهزة HP الورك ستيشن، بمعالج i7 بـ 6 أنوية وكارت NVIDIA T1000.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/zbfuryg7-1.jpg",
+      "images/laptops/zbfuryg7-2.jpg",
+      "images/laptops/zbfuryg7-3.jpg"
     ]
   },
   {
@@ -2155,7 +2174,8 @@ const LAPTOPS = [
     ],
     "description": "ZBook بمعالج Core i9 بـ 8 أنوية وكارت NVIDIA T1000. أداء عالي جداً للبرامج التقيلة بسعر معقول.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/zbpowerg7-1.jpg",
+      "images/laptops/zbpowerg7-2.jpg"
     ]
   },
   {
@@ -2206,7 +2226,9 @@ const LAPTOPS = [
     ],
     "description": "Precision 5560 بتصميم نحيف شبه الماك بوك وشاشة 4K تاتش. معالج i7 بـ 8 أنوية وكارت NVIDIA T1200.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/prec5560-1.jpg",
+      "images/laptops/prec5560-2.jpg",
+      "images/laptops/prec5560-3.jpg"
     ]
   },
   {
@@ -2257,7 +2279,9 @@ const LAPTOPS = [
     ],
     "description": "ZBook Studio نحيف جداً بمعالج i7 جيل 11 بـ 8 أنوية ورامات 32 جيجا. قوة ورك ستيشن في شكل ألترا سليم.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/zbstudiog8-1.jpg",
+      "images/laptops/zbstudiog8-2.jpg",
+      "images/laptops/zbstudiog8-3.jpg"
     ]
   },
   {
@@ -2374,7 +2398,9 @@ const LAPTOPS = [
     ],
     "description": "ZBook Fury بكارت NVIDIA RTX A3000 بـ 6 جيجا ومعالج i7 جيل 11 بـ 8 أنوية. أداء احترافي للريندر والـ 3D.",
     "images": [
-      "images/placeholder.svg"
+      "images/laptops/zbfuryg7-1.jpg",
+      "images/laptops/zbfuryg7-2.jpg",
+      "images/laptops/zbfuryg7-3.jpg"
     ]
   },
   {
