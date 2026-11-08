@@ -53,59 +53,6 @@ const LAPTOPS = [
     ]
   },
   {
-    "id": "laptop-301",
-    "name": "HP ProBook 640 G2",
-    "brand": "HP",
-    "price": 11200,
-    "variants": [],
-    "available": true,
-    "quick": {
-      "cpu": "Intel Core i5-6400U",
-      "ram": "8GB DDR4",
-      "storage": "256GB M.2 SSD",
-      "gpu": "Intel HD Graphics 520",
-      "screen": "14 بوصة"
-    },
-    "specs": [
-      {
-        "label": "المعالج",
-        "value": "Intel Core i5-6400U"
-      },
-      {
-        "label": "الرامات",
-        "value": "8GB DDR4"
-      },
-      {
-        "label": "التخزين",
-        "value": "256GB M.2 SSD"
-      },
-      {
-        "label": "كارت الشاشة",
-        "value": "Intel HD Graphics 520"
-      },
-      {
-        "label": "الشاشة",
-        "value": "14 بوصة"
-      },
-      {
-        "label": "الكاميرا",
-        "value": "مدمجة"
-      }
-    ],
-    "features": [
-      "اختيار اقتصادي ممتاز للطلبة وأول لاب",
-      "SSD سريع في الإقلاع وفتح البرامج",
-      "مناسب للأوفيس والنت والمحاضرات الأونلاين",
-      "خامة HP ProBook متينة وتستحمل الاستخدام اليومي"
-    ],
-    "description": "لاب عملي وخفيف للمذاكرة والشغل المكتبي بأقل تكلفة. هارد SSD بيخلي الويندوز يفتح في ثواني، وحجمه 14 بوصة سهل تشيله في الشنطة كل يوم.",
-    "images": [
-      "images/laptops/laptop-301-1.jpg",
-      "images/laptops/laptop-301-2.jpg",
-      "images/laptops/laptop-301-3.jpg"
-    ]
-  },
-  {
     "id": "gl-15",
     "name": "Dell Latitude 5490",
     "brand": "Dell",
@@ -311,61 +258,6 @@ const LAPTOPS = [
     ]
   },
   {
-    "id": "laptop-265",
-    "name": "Dell 5400",
-    "brand": "Dell",
-    "price": 13000,
-    "variants": [],
-    "available": true,
-    "quick": {
-      "cpu": "Intel Core i5-8350U",
-      "ram": "8GB DDR4",
-      "storage": "256GB NVMe SSD",
-      "gpu": "Intel UHD Graphics 620",
-      "screen": "14 بوصة"
-    },
-    "specs": [
-      {
-        "label": "المعالج",
-        "value": "Intel Core i5-8350U"
-      },
-      {
-        "label": "الرامات",
-        "value": "8GB DDR4"
-      },
-      {
-        "label": "التخزين",
-        "value": "256GB NVMe SSD"
-      },
-      {
-        "label": "كارت الشاشة",
-        "value": "Intel UHD Graphics 620"
-      },
-      {
-        "label": "الشاشة",
-        "value": "14 بوصة"
-      },
-      {
-        "label": "الكاميرا",
-        "value": "مدمجة"
-      }
-    ],
-    "features": [
-      "معالج i5 جيل ثامن بـ 4 أنوية",
-      "هارد NVMe أسرع من الـ SSD العادي",
-      "مناسب للشغل المكتبي والدراسة وتعدد المهام",
-      "تصميم Latitude العملي المعروف بالاعتمادية"
-    ],
-    "description": "Dell Latitude من فئة البيزنس بمعالج جيل ثامن رباعي الأنوية. سريع ومستقر في الشغل اليومي ووزنه مناسب للتنقل.",
-    "images": [
-      "images/laptops/laptop-265-1.jpg",
-      "images/laptops/laptop-265-2.jpg",
-      "images/laptops/laptop-265-3.jpg",
-      "images/laptops/laptop-265-4.jpg",
-      "images/laptops/laptop-265-5.jpg"
-    ]
-  },
-  {
     "id": "gl-16",
     "name": "Dell Latitude 5420",
     "brand": "Dell",
@@ -414,60 +306,6 @@ const LAPTOPS = [
     "description": "Latitude بمعالج جيل 11 وشاشة لمس 14 بوصة. حديث وسريع وسعره ممتاز.",
     "images": [
       "images/placeholder.svg"
-    ]
-  },
-  {
-    "id": "laptop-379",
-    "name": "HP ProBook 650 G3",
-    "brand": "HP",
-    "price": 13500,
-    "variants": [],
-    "available": true,
-    "quick": {
-      "cpu": "Intel Core i5-7400U",
-      "ram": "8GB DDR4",
-      "storage": "256GB SSD",
-      "gpu": "Intel HD Graphics 520",
-      "screen": "15.6 بوصة"
-    },
-    "specs": [
-      {
-        "label": "المعالج",
-        "value": "Intel Core i5-7400U"
-      },
-      {
-        "label": "الرامات",
-        "value": "8GB DDR4"
-      },
-      {
-        "label": "التخزين",
-        "value": "256GB SSD"
-      },
-      {
-        "label": "كارت الشاشة",
-        "value": "Intel HD Graphics 520"
-      },
-      {
-        "label": "الشاشة",
-        "value": "15.6 بوصة"
-      },
-      {
-        "label": "الكاميرا",
-        "value": "مدمجة"
-      }
-    ],
-    "features": [
-      "شاشة 15.6 بوصة واسعة ومريحة",
-      "SSD لسرعة في التشغيل والاستجابة",
-      "مناسب للمكاتب والطلبة والشغل على الإكسل",
-      "كيبورد كامل بأرقام جانبية"
-    ],
-    "description": "شاشة كبيرة 15.6 بوصة مريحة للعين في الشغل الطويل، مع أداء ثابت للمهام اليومية. اختيار كويس لو بتدور على شاشة واسعة بسعر معقول.",
-    "images": [
-      "images/laptops/laptop-379-1.jpg",
-      "images/laptops/laptop-379-2.jpg",
-      "images/laptops/laptop-379-3.jpg",
-      "images/laptops/laptop-379-4.jpg"
     ]
   },
   {
@@ -576,23 +414,23 @@ const LAPTOPS = [
     ]
   },
   {
-    "id": "laptop-369",
-    "name": "Dell Latitude 5590",
-    "brand": "Dell",
-    "price": 14500,
+    "id": "laptop-379",
+    "name": "HP ProBook 650 G3",
+    "brand": "HP",
+    "price": 14000,
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "Intel Core i5-8350U",
+      "cpu": "Intel Core i5-7400U",
       "ram": "8GB DDR4",
-      "storage": "256GB M.2 SSD",
-      "gpu": "Intel UHD Graphics 620",
+      "storage": "256GB SSD",
+      "gpu": "Intel HD Graphics 520",
       "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Intel Core i5-8350U"
+        "value": "Intel Core i5-7400U"
       },
       {
         "label": "الرامات",
@@ -600,11 +438,11 @@ const LAPTOPS = [
       },
       {
         "label": "التخزين",
-        "value": "256GB M.2 SSD"
+        "value": "256GB SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "Intel UHD Graphics 620"
+        "value": "Intel HD Graphics 520"
       },
       {
         "label": "الشاشة",
@@ -616,19 +454,69 @@ const LAPTOPS = [
       }
     ],
     "features": [
-      "معالج i5 جيل ثامن بـ 4 أنوية",
-      "شاشة كبيرة مناسبة للشغل والمذاكرة",
-      "SSD سريع في كل حاجة",
-      "كيبورد كامل مريح في الكتابة الكتير"
+      "شاشة 15.6 بوصة واسعة ومريحة",
+      "SSD لسرعة في التشغيل والاستجابة",
+      "مناسب للمكاتب والطلبة والشغل على الإكسل",
+      "كيبورد كامل بأرقام جانبية"
     ],
-    "description": "Latitude بشاشة 15.6 بوصة ومعالج جيل ثامن رباعي الأنوية. توازن حلو بين الأداء والسعر والشاشة الكبيرة.",
+    "description": "شاشة كبيرة 15.6 بوصة مريحة للعين في الشغل الطويل، مع أداء ثابت للمهام اليومية. اختيار كويس لو بتدور على شاشة واسعة بسعر معقول.",
     "images": [
-      "images/laptops/laptop-369-1.jpg",
-      "images/laptops/laptop-369-2.jpg",
-      "images/laptops/laptop-369-3.jpg",
-      "images/laptops/laptop-369-4.jpg",
-      "images/laptops/laptop-369-5.jpg"
+      "images/laptops/laptop-379-1.jpg",
+      "images/laptops/laptop-379-2.jpg",
+      "images/laptops/laptop-379-3.jpg",
+      "images/laptops/laptop-379-4.jpg"
     ]
+  },
+  {
+    "id": "laptop-395",
+    "name": "HP EliteBook 840 G4",
+    "brand": "HP",
+    "price": 14000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "شاشة 14 بوصة FHD IPS",
+      "بودي ألمونيوم خفيف",
+      "هارد NVMe سريع",
+      "سعر اقتصادي"
+    ],
+    "description": "EliteBook 840 بشاشة 14 بوصة FHD IPS وبودي معدن خفيف. اختيار عملي واقتصادي للشغل والمذاكرة.",
+    "images": [
+      "images/laptops/eb840g4-1.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5-7300U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel HD Graphics 620"
+      },
+      {
+        "label": "الشاشة",
+        "value": "14 بوصة FHD IPS"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i5-7300U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel HD Graphics 620",
+      "screen": "14 بوصة FHD IPS"
+    }
   },
   {
     "id": "pb-440g8",
@@ -683,6 +571,58 @@ const LAPTOPS = [
       "images/laptops/pb440g8-3.jpg",
       "images/laptops/pb440g8-4.jpg"
     ]
+  },
+  {
+    "id": "laptop-394",
+    "name": "Dell XPS 13 9360",
+    "brand": "Dell",
+    "price": 14500,
+    "variants": [],
+    "available": true,
+    "features": [
+      "تصميم فاخر بحواف رفيعة",
+      "خفيف جداً حوالي 1.2 كيلو",
+      "شاشة 13.3 بوصة FHD",
+      "مثالي للتنقل والمذاكرة"
+    ],
+    "description": "XPS 13 الأنيق بحواف شاشة رفيعة جداً ووزن خفيف. من أشهر اللابات الصغيرة الفاخرة من Dell.",
+    "images": [
+      "images/laptops/xps9360-1.jpg",
+      "images/laptops/xps9360-2.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5-7200U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel HD Graphics 620"
+      },
+      {
+        "label": "الشاشة",
+        "value": "13.3 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i5-7200U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel HD Graphics 620",
+      "screen": "13.3 بوصة FHD"
+    }
   },
   {
     "id": "gl-09",
@@ -952,6 +892,167 @@ const LAPTOPS = [
     ]
   },
   {
+    "id": "laptop-264",
+    "name": "Dell Latitude 5480",
+    "brand": "Dell",
+    "price": 15000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "معالج Core i7 جيل 7",
+      "شاشة 14 بوصة",
+      "SSD سريع",
+      "خامة Latitude متينة"
+    ],
+    "description": "Latitude 14 بوصة بمعالج Core i7. متين وعملي للشغل المكتبي اليومي.",
+    "images": [
+      "images/laptops/lat5480-1.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i7 (جيل 7)"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB M.2 SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel HD Graphics 620"
+      },
+      {
+        "label": "الشاشة",
+        "value": "14 بوصة"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i7 (جيل 7)",
+      "ram": "8GB DDR4",
+      "storage": "256GB M.2 SSD",
+      "gpu": "Intel HD Graphics 620",
+      "screen": "14 بوصة"
+    }
+  },
+  {
+    "id": "laptop-369",
+    "name": "Dell Latitude 5590",
+    "brand": "Dell",
+    "price": 15500,
+    "variants": [],
+    "available": true,
+    "quick": {
+      "cpu": "Intel Core i5-8350U",
+      "ram": "8GB DDR4",
+      "storage": "256GB M.2 SSD",
+      "gpu": "Intel UHD Graphics 620",
+      "screen": "15.6 بوصة"
+    },
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5-8350U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB M.2 SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel UHD Graphics 620"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "features": [
+      "معالج i5 جيل ثامن بـ 4 أنوية",
+      "شاشة كبيرة مناسبة للشغل والمذاكرة",
+      "SSD سريع في كل حاجة",
+      "كيبورد كامل مريح في الكتابة الكتير"
+    ],
+    "description": "Latitude بشاشة 15.6 بوصة ومعالج جيل ثامن رباعي الأنوية. توازن حلو بين الأداء والسعر والشاشة الكبيرة.",
+    "images": [
+      "images/laptops/laptop-369-1.jpg",
+      "images/laptops/laptop-369-2.jpg",
+      "images/laptops/laptop-369-3.jpg",
+      "images/laptops/laptop-369-4.jpg",
+      "images/laptops/laptop-369-5.jpg"
+    ]
+  },
+  {
+    "id": "laptop-337",
+    "name": "Dell Latitude 5591",
+    "brand": "Dell",
+    "price": 16500,
+    "variants": [],
+    "available": true,
+    "features": [
+      "شاشة 15.6 بوصة",
+      "هارد NVMe سريع",
+      "كيبورد كامل بأرقام جانبية",
+      "خامة Latitude متينة"
+    ],
+    "description": "Latitude 15.6 بوصة بمعالج جيل 8 وهارد NVMe. شاشة كبيرة وأداء مريح للشغل اليومي.",
+    "images": [
+      "images/laptops/laptop-369-1.jpg",
+      "images/laptops/laptop-369-2.jpg",
+      "images/laptops/laptop-369-3.jpg",
+      "images/laptops/laptop-369-4.jpg",
+      "images/laptops/laptop-369-5.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5 (جيل 8)"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel UHD Graphics 620"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i5 (جيل 8)",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel UHD Graphics 620",
+      "screen": "15.6 بوصة"
+    }
+  },
+  {
     "id": "gl-12",
     "name": "HP EliteBook 845 G7 (Ryzen 7)",
     "brand": "HP",
@@ -1002,6 +1103,59 @@ const LAPTOPS = [
       "images/laptops/eb845g7-1.jpg",
       "images/laptops/eb845g7-2.jpg"
     ]
+  },
+  {
+    "id": "laptop-385",
+    "name": "HP ProBook 650 G5 (i5)",
+    "brand": "HP",
+    "price": 17500,
+    "variants": [],
+    "available": true,
+    "features": [
+      "معالج i5 جيل 8 بـ 4 أنوية",
+      "شاشة 15.6 بوصة",
+      "هارد NVMe سريع",
+      "كيبورد كامل"
+    ],
+    "description": "ProBook 650 G5 بمعالج i5 جيل 8 بـ 4 أنوية وشاشة 15.6 بوصة. عملي ومتين للشغل المكتبي.",
+    "images": [
+      "images/laptops/pb650g5-1.jpg",
+      "images/laptops/pb650g5-2.jpg",
+      "images/laptops/pb650g5-3.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5-8665U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel UHD Graphics 620"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i5-8665U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel UHD Graphics 620",
+      "screen": "15.6 بوصة"
+    }
   },
   {
     "id": "gl-03",
@@ -1104,61 +1258,6 @@ const LAPTOPS = [
     "description": "Precision بمعالج جيل 11 ورامات 16 جيجا وشاشة 15.6 بوصة. سريع وعملي للشغل اليومي والمكتبي التقيل.",
     "images": [
       "images/laptops/prec3560-1.jpg"
-    ]
-  },
-  {
-    "id": "laptop-378",
-    "name": "Dell Latitude 5320",
-    "brand": "Dell",
-    "price": 18000,
-    "variants": [],
-    "available": true,
-    "quick": {
-      "cpu": "Intel Core i5-1145G7",
-      "ram": "8GB DDR4",
-      "storage": "256GB NVMe SSD",
-      "gpu": "Intel Iris Xe Graphics",
-      "screen": "13.3 بوصة لمس"
-    },
-    "specs": [
-      {
-        "label": "المعالج",
-        "value": "Intel Core i5-1145G7"
-      },
-      {
-        "label": "الرامات",
-        "value": "8GB DDR4"
-      },
-      {
-        "label": "التخزين",
-        "value": "256GB NVMe SSD"
-      },
-      {
-        "label": "كارت الشاشة",
-        "value": "Intel Iris Xe Graphics"
-      },
-      {
-        "label": "الشاشة",
-        "value": "13.3 بوصة لمس"
-      },
-      {
-        "label": "الكاميرا",
-        "value": "مدمجة"
-      }
-    ],
-    "features": [
-      "معالج i5 جيل 11 بدعم vPro",
-      "شاشة 13.3 بوصة تاتش",
-      "حجم صغير ووزن خفيف جداً",
-      "كارت Iris Xe لأداء رسومي أفضل"
-    ],
-    "description": "لاب صغير 13.3 بوصة بشاشة لمس ومعالج جيل حادي عشر. مثالي لو بتتنقل كتير ومحتاج جهاز سريع وخفيف.",
-    "images": [
-      "images/laptops/laptop-378-1.jpg",
-      "images/laptops/laptop-378-2.jpg",
-      "images/laptops/laptop-378-3.jpg",
-      "images/laptops/laptop-378-4.jpg",
-      "images/laptops/laptop-378-5.jpg"
     ]
   },
   {
@@ -1272,6 +1371,114 @@ const LAPTOPS = [
     ]
   },
   {
+    "id": "laptop-384",
+    "name": "HP ProBook 650 G5 (i7)",
+    "brand": "HP",
+    "price": 18500,
+    "variants": [],
+    "available": true,
+    "features": [
+      "معالج i7 جيل 8 بـ 4 أنوية",
+      "شاشة 15.6 بوصة",
+      "هارد NVMe سريع",
+      "كيبورد كامل"
+    ],
+    "description": "ProBook 650 G5 بمعالج Core i7 جيل 8 وشاشة 15.6 بوصة. أداء أعلى لتعدد المهام والبرامج الأتقل.",
+    "images": [
+      "images/laptops/pb650g5-1.jpg",
+      "images/laptops/pb650g5-2.jpg",
+      "images/laptops/pb650g5-3.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i7-8665U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel UHD Graphics 620"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i7-8665U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel UHD Graphics 620",
+      "screen": "15.6 بوصة"
+    }
+  },
+  {
+    "id": "laptop-378",
+    "name": "Dell Latitude 5320",
+    "brand": "Dell",
+    "price": 19000,
+    "variants": [],
+    "available": true,
+    "quick": {
+      "cpu": "Intel Core i5-1145G7",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "Intel Iris Xe Graphics",
+      "screen": "13.3 بوصة لمس"
+    },
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5-1145G7"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel Iris Xe Graphics"
+      },
+      {
+        "label": "الشاشة",
+        "value": "13.3 بوصة لمس"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "features": [
+      "معالج i5 جيل 11 بدعم vPro",
+      "شاشة 13.3 بوصة تاتش",
+      "حجم صغير ووزن خفيف جداً",
+      "كارت Iris Xe لأداء رسومي أفضل"
+    ],
+    "description": "لاب صغير 13.3 بوصة بشاشة لمس ومعالج جيل حادي عشر. مثالي لو بتتنقل كتير ومحتاج جهاز سريع وخفيف.",
+    "images": [
+      "images/laptops/laptop-378-1.jpg",
+      "images/laptops/laptop-378-2.jpg",
+      "images/laptops/laptop-378-3.jpg",
+      "images/laptops/laptop-378-4.jpg",
+      "images/laptops/laptop-378-5.jpg"
+    ]
+  },
+  {
     "id": "gl-02",
     "name": "HP EliteBook 845 G10",
     "brand": "HP",
@@ -1325,57 +1532,59 @@ const LAPTOPS = [
     ]
   },
   {
-    "id": "laptop-281",
-    "name": "HP EliteBook 855 G8",
+    "id": "laptop-396",
+    "name": "HP ZBook 15 G3 (i7 + FirePro)",
     "brand": "HP",
-    "price": 20500,
+    "price": 20000,
     "variants": [],
     "available": true,
-    "quick": {
-      "cpu": "AMD Ryzen 5 Pro 5650U",
-      "ram": "8GB DDR4",
-      "storage": "256GB NVMe SSD",
-      "gpu": "AMD Radeon Graphics",
-      "screen": "15.6 بوصة"
-    },
+    "features": [
+      "كارت شاشة منفصل AMD FirePro بـ 2 جيجا",
+      "معالج i7 HQ رباعي الأنوية",
+      "رامات 16 جيجا وهارد 512",
+      "مناسب للأوتوكاد والبرامج الهندسية"
+    ],
+    "description": "ZBook 15 G3 بمعالج i7 HQ وكارت AMD FirePro منفصل ورامات 16 جيجا. ورك ستيشن اقتصادي للبرامج الهندسية.",
+    "images": [
+      "images/laptops/laptop-300-1.jpg",
+      "images/laptops/laptop-300-2.jpg",
+      "images/laptops/laptop-300-3.jpg",
+      "images/laptops/laptop-300-4.jpg",
+      "images/laptops/laptop-300-5.jpg"
+    ],
     "specs": [
       {
         "label": "المعالج",
-        "value": "AMD Ryzen 5 Pro 5650U"
+        "value": "Intel Core i7-6820HQ"
       },
       {
         "label": "الرامات",
-        "value": "8GB DDR4"
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
-        "value": "256GB NVMe SSD"
+        "value": "512GB NVMe SSD"
       },
       {
         "label": "كارت الشاشة",
-        "value": "AMD Radeon Graphics"
+        "value": "AMD FirePro W5170M 2GB"
       },
       {
         "label": "الشاشة",
-        "value": "15.6 بوصة"
+        "value": "15.6 بوصة FHD IPS"
       },
       {
         "label": "الكاميرا",
         "value": "مدمجة"
       }
     ],
-    "features": [
-      "معالج Ryzen 5 Pro بـ 6 أنوية",
-      "كارت Radeon مدمج قوي",
-      "شاشة 15.6 بوصة",
-      "بودي EliteBook المعدن"
-    ],
-    "description": "معالج Ryzen 5 Pro بـ 6 أنوية و12 ثريد في EliteBook بشاشة 15.6 بوصة. أداء قوي في تعدد المهام مع بطارية كويسة.",
-    "images": [
-      "images/laptops/laptop-281-1.jpg",
-      "images/laptops/laptop-281-2.jpg",
-      "images/laptops/laptop-281-3.jpg"
-    ]
+    "quick": {
+      "cpu": "Intel Core i7-6820HQ",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "gpu": "AMD FirePro W5170M 2GB",
+      "screen": "15.6 بوصة FHD IPS"
+    }
   },
   {
     "id": "gl-14",
@@ -1645,6 +1854,160 @@ const LAPTOPS = [
     ]
   },
   {
+    "id": "laptop-387",
+    "name": "Dell Latitude 5500 (i7 + Radeon Pro)",
+    "brand": "Dell",
+    "price": 21000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "كارت شاشة منفصل Radeon Pro بـ 2 جيجا",
+      "معالج i7 جيل 8",
+      "شاشة 15.6 بوصة FHD",
+      "كيبورد كامل"
+    ],
+    "description": "Latitude 5500 بمعالج i7 وكارت AMD Radeon Pro منفصل. مناسب للشغل والجرافيك الخفيف.",
+    "images": [
+      "images/laptops/lat5500-1.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i7-8665U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "AMD Radeon Pro WX 2100 2GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i7-8665U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "AMD Radeon Pro WX 2100 2GB",
+      "screen": "15.6 بوصة FHD"
+    }
+  },
+  {
+    "id": "laptop-388",
+    "name": "Dell Latitude 5410",
+    "brand": "Dell",
+    "price": 21000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "كارت شاشة منفصل Radeon RX 640 بـ 2 جيجا",
+      "معالج i7 جيل 10 بـ 4 أنوية",
+      "شاشة 14 بوصة FHD",
+      "حجم مناسب للتنقل"
+    ],
+    "description": "Latitude 14 بوصة بمعالج i7 جيل 10 وكارت شاشة منفصل Radeon RX 640. صغير وقوي في نفس الوقت.",
+    "images": [
+      "images/laptops/lat5410-1.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i7-10610U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "AMD Radeon RX 640 2GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "14 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i7-10610U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "AMD Radeon RX 640 2GB",
+      "screen": "14 بوصة FHD"
+    }
+  },
+  {
+    "id": "laptop-386",
+    "name": "HP 14-cf",
+    "brand": "HP",
+    "price": 21500,
+    "variants": [],
+    "available": true,
+    "features": [
+      "معالج i5 جيل 10 بـ 4 أنوية",
+      "كارت شاشة منفصل AMD Radeon",
+      "شاشة 14 بوصة FHD",
+      "خفيف وسهل الحمل"
+    ],
+    "description": "لاب HP خفيف 14 بوصة بمعالج i5 جيل 10 وكارت AMD Radeon منفصل. مناسب للمذاكرة والاستخدام اليومي.",
+    "images": [
+      "images/laptops/hp14cf-1.jpg",
+      "images/laptops/hp14cf-2.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5-10210U"
+      },
+      {
+        "label": "الرامات",
+        "value": "8GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "AMD Radeon 2GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "14 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i5-10210U",
+      "ram": "8GB DDR4",
+      "storage": "256GB NVMe SSD",
+      "gpu": "AMD Radeon 2GB",
+      "screen": "14 بوصة FHD"
+    }
+  },
+  {
     "id": "gl-18",
     "name": "Dell Precision 5530",
     "brand": "Dell",
@@ -1693,58 +2056,6 @@ const LAPTOPS = [
     "description": "Precision 5530 نحيف بتصميم شبه XPS ومعالج i7 بـ 6 أنوية وكارت NVIDIA P1000. أقل سعر لورك ستيشن بالشكل ده.",
     "images": [
       "images/laptops/prec5530-1.jpg"
-    ]
-  },
-  {
-    "id": "laptop-278",
-    "name": "HP ZBook 15 G3 (i7 + Quadro)",
-    "brand": "HP",
-    "price": 22000,
-    "variants": [],
-    "available": true,
-    "quick": {
-      "cpu": "Intel Core i7-6820HQ",
-      "ram": "16GB DDR4",
-      "storage": "512GB M.2 SSD",
-      "gpu": "NVIDIA Quadro M2000M 4GB",
-      "screen": "15.6 بوصة"
-    },
-    "specs": [
-      {
-        "label": "المعالج",
-        "value": "Intel Core i7-6820HQ"
-      },
-      {
-        "label": "الرامات",
-        "value": "16GB DDR4"
-      },
-      {
-        "label": "التخزين",
-        "value": "512GB M.2 SSD"
-      },
-      {
-        "label": "كارت الشاشة",
-        "value": "NVIDIA Quadro M2000M 4GB"
-      },
-      {
-        "label": "الشاشة",
-        "value": "15.6 بوصة"
-      },
-      {
-        "label": "الكاميرا",
-        "value": "مدمجة"
-      }
-    ],
-    "features": [
-      "كارت NVIDIA Quadro M2000M بـ 4 جيجا",
-      "معالج i7 HQ رباعي الأنوية",
-      "رامات 16 جيجا وهارد 512",
-      "مناسب للأوتوكاد والريفيت والـ SketchUp"
-    ],
-    "description": "ZBook 15 بمعالج i7 وكارت NVIDIA Quadro 4 جيجا ورامات 16. ورك ستيشن قوي لطلبة العمارة والهندسة.",
-    "images": [
-      "images/laptops/laptop-278-1.jpg",
-      "images/laptops/laptop-278-2.jpg"
     ]
   },
   {
@@ -1801,6 +2112,58 @@ const LAPTOPS = [
     ]
   },
   {
+    "id": "laptop-278",
+    "name": "HP ZBook 15 G3 (i7 + Quadro)",
+    "brand": "HP",
+    "price": 23500,
+    "variants": [],
+    "available": true,
+    "quick": {
+      "cpu": "Intel Core i7-6820HQ",
+      "ram": "16GB DDR4",
+      "storage": "512GB M.2 SSD",
+      "gpu": "NVIDIA Quadro M2000M 4GB",
+      "screen": "15.6 بوصة لمس"
+    },
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i7-6820HQ"
+      },
+      {
+        "label": "الرامات",
+        "value": "16GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "512GB M.2 SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "NVIDIA Quadro M2000M 4GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة لمس"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "features": [
+      "كارت NVIDIA Quadro M2000M بـ 4 جيجا",
+      "معالج i7 HQ رباعي الأنوية",
+      "رامات 16 جيجا وهارد 512",
+      "مناسب للأوتوكاد والريفيت والـ SketchUp"
+    ],
+    "description": "ZBook 15 بمعالج i7 وكارت NVIDIA Quadro 4 جيجا ورامات 16. ورك ستيشن قوي لطلبة العمارة والهندسة.",
+    "images": [
+      "images/laptops/laptop-278-1.jpg",
+      "images/laptops/laptop-278-2.jpg"
+    ]
+  },
+  {
     "id": "gl-24",
     "name": "Dell Precision 7540",
     "brand": "Dell",
@@ -1850,61 +2213,6 @@ const LAPTOPS = [
     "images": [
       "images/laptops/prec7540-1.jpg",
       "images/laptops/prec7540-2.jpg"
-    ]
-  },
-  {
-    "id": "laptop-381",
-    "name": "Dell Precision 7560",
-    "brand": "Dell",
-    "price": 25000,
-    "variants": [],
-    "available": true,
-    "quick": {
-      "cpu": "Intel Core i5-11500H",
-      "ram": "16GB DDR4",
-      "storage": "512GB NVMe SSD",
-      "gpu": "Intel UHD Graphics",
-      "screen": "15.6 بوصة"
-    },
-    "specs": [
-      {
-        "label": "المعالج",
-        "value": "Intel Core i5-11500H"
-      },
-      {
-        "label": "الرامات",
-        "value": "16GB DDR4"
-      },
-      {
-        "label": "التخزين",
-        "value": "512GB NVMe SSD"
-      },
-      {
-        "label": "كارت الشاشة",
-        "value": "Intel UHD Graphics"
-      },
-      {
-        "label": "الشاشة",
-        "value": "15.6 بوصة"
-      },
-      {
-        "label": "الكاميرا",
-        "value": "مدمجة"
-      }
-    ],
-    "features": [
-      "معالج i5 جيل 11 فئة H بـ 6 أنوية",
-      "رامات 16 جيجا وهارد NVMe 512",
-      "بودي Precision بمعايير محطات العمل",
-      "مناسب للبرمجة والتحليل والشغل التقيل"
-    ],
-    "description": "Dell Precision حديث بمعالج H من الجيل الحادي عشر بـ 6 أنوية ورامات 16 جيجا. أداء عالي وثابت للشغل الاحترافي وتعدد المهام.",
-    "images": [
-      "images/laptops/laptop-381-1.jpg",
-      "images/laptops/laptop-381-2.jpg",
-      "images/laptops/laptop-381-3.jpg",
-      "images/laptops/laptop-381-4.jpg",
-      "images/laptops/laptop-381-5.jpg"
     ]
   },
   {
@@ -2339,38 +2647,27 @@ const LAPTOPS = [
     ]
   },
   {
-    "id": "laptop-296",
-    "name": "Dell Precision 5550",
+    "id": "laptop-293",
+    "name": "Dell Precision 7550 (i5 + T1000)",
     "brand": "Dell",
-    "price": 33000,
-    "variants": [
-      {
-        "title": "N.V/512 / 16 DDR4",
-        "price": 33000,
-        "available": true
-      },
-      {
-        "title": "N.V/512 / 32 DDR4",
-        "price": 37000,
-        "available": true
-      }
-    ],
+    "price": 32000,
+    "variants": [],
     "available": true,
     "quick": {
-      "cpu": "Intel Core i7-10850H",
-      "ram": "32GB DDR4",
+      "cpu": "Intel Core i5-10400H",
+      "ram": "16GB DDR4",
       "storage": "512GB NVMe SSD",
-      "gpu": "NVIDIA Quadro T2000 4GB",
+      "gpu": "NVIDIA Quadro T1000 4GB",
       "screen": "15.6 بوصة"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Intel Core i7-10850H"
+        "value": "Intel Core i5-10400H"
       },
       {
         "label": "الرامات",
-        "value": "32GB DDR4"
+        "value": "16GB DDR4"
       },
       {
         "label": "التخزين",
@@ -2378,7 +2675,7 @@ const LAPTOPS = [
       },
       {
         "label": "كارت الشاشة",
-        "value": "NVIDIA Quadro T2000 4GB"
+        "value": "NVIDIA Quadro T1000 4GB"
       },
       {
         "label": "الشاشة",
@@ -2390,18 +2687,18 @@ const LAPTOPS = [
       }
     ],
     "features": [
-      "كارت NVIDIA Quadro T2000 بـ 4 جيجا",
-      "معالج i7 جيل 10 بـ 6 أنوية",
-      "متاح برامات 16 أو 32 جيجا",
-      "تصميم نحيف وبودي ألمونيوم"
+      "كارت NVIDIA Quadro T1000 بـ 4 جيجا",
+      "معالج i5 جيل 10 فئة H بـ 4 أنوية",
+      "رامات 16 جيجا وهارد NVMe 512",
+      "مناسب للأوتوكاد والريفيت والمونتاج"
     ],
-    "description": "Precision 5550 نحيف وأنيق جداً بمعالج i7 بـ 6 أنوية وكارت NVIDIA Quadro T2000. قوة ورك ستيشن في شكل لاب خفيف.",
+    "description": "Precision 7550 بمعالج i5 جيل 10 فئة H وكارت NVIDIA T1000 بـ 4 جيجا. ورك ستيشن قوي ومتين بسعر أقل.",
     "images": [
-      "images/laptops/laptop-296-1.webp",
-      "images/laptops/laptop-296-2.webp",
-      "images/laptops/laptop-296-3.webp",
-      "images/laptops/laptop-296-4.webp",
-      "images/laptops/laptop-296-5.webp"
+      "images/laptops/laptop-293-1.jpg",
+      "images/laptops/laptop-293-2.jpg",
+      "images/laptops/laptop-293-3.jpg",
+      "images/laptops/laptop-293-4.jpg",
+      "images/laptops/laptop-293-5.jpg"
     ]
   },
   {
@@ -2458,23 +2755,23 @@ const LAPTOPS = [
     ]
   },
   {
-    "id": "laptop-293",
-    "name": "Dell Precision 7550",
+    "id": "laptop-296",
+    "name": "Dell Precision 5550 4K Touch",
     "brand": "Dell",
     "price": 36000,
     "variants": [],
     "available": true,
     "quick": {
-      "cpu": "Intel Xeon W-10855M",
+      "cpu": "Intel Core i7-10850H",
       "ram": "16GB DDR4",
       "storage": "512GB NVMe SSD",
-      "gpu": "NVIDIA Quadro RTX 3000 6GB",
-      "screen": "15.6 بوصة"
+      "gpu": "NVIDIA Quadro T2000 4GB",
+      "screen": "15.6 بوصة 4K لمس"
     },
     "specs": [
       {
         "label": "المعالج",
-        "value": "Intel Xeon W-10855M"
+        "value": "Intel Core i7-10850H"
       },
       {
         "label": "الرامات",
@@ -2486,7 +2783,118 @@ const LAPTOPS = [
       },
       {
         "label": "كارت الشاشة",
-        "value": "NVIDIA Quadro RTX 3000 6GB"
+        "value": "NVIDIA Quadro T2000 4GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة 4K لمس"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "features": [
+      "شاشة 15.6 بوصة 4K تاتش",
+      "كارت NVIDIA Quadro T2000 بـ 4 جيجا",
+      "معالج i7 جيل 10 بـ 6 أنوية",
+      "تصميم نحيف وبودي ألمونيوم"
+    ],
+    "description": "Precision 5550 نحيف وأنيق بشاشة 4K تاتش ومعالج i7 بـ 6 أنوية وكارت NVIDIA Quadro T2000. قوة ورك ستيشن في شكل لاب خفيف.",
+    "images": [
+      "images/laptops/laptop-296-1.webp",
+      "images/laptops/laptop-296-2.webp",
+      "images/laptops/laptop-296-3.webp",
+      "images/laptops/laptop-296-4.webp",
+      "images/laptops/laptop-296-5.webp"
+    ]
+  },
+  {
+    "id": "laptop-389",
+    "name": "Dell Precision 7760",
+    "brand": "Dell",
+    "price": 36000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "شاشة كبيرة 17.3 بوصة",
+      "معالج i7 جيل 11 بـ 8 أنوية",
+      "كارت NVIDIA T1200 بـ 4 جيجا",
+      "هارد NVMe 512"
+    ],
+    "description": "ورك ستيشن بشاشة كبيرة 17.3 بوصة ومعالج i7 جيل 11 بـ 8 أنوية وكارت NVIDIA T1200. مثالي للشغل الهندسي على شاشة واسعة.",
+    "images": [
+      "images/laptops/prec7760-1.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i7-11850H"
+      },
+      {
+        "label": "الرامات",
+        "value": "16GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "512GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "NVIDIA T1200 4GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "17.3 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i7-11850H",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA T1200 4GB",
+      "screen": "17.3 بوصة FHD"
+    }
+  },
+  {
+    "id": "laptop-298",
+    "name": "HP ZBook Fury 15 G7 i9",
+    "brand": "HP",
+    "price": 48000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "كارت Quadro RTX 4000 بـ 8 جيجا",
+      "معالج Core i9 بـ 8 أنوية",
+      "هارد NVMe 512",
+      "للريندر والـ 3D والمونتاج"
+    ],
+    "description": "ZBook Fury بمعالج Core i9 بـ 8 أنوية وكارت NVIDIA Quadro RTX 4000 بـ 8 جيجا. أداء احترافي للريندر والمونتاج.",
+    "images": [
+      "images/laptops/zbfuryg7-1.jpg",
+      "images/laptops/zbfuryg7-2.jpg",
+      "images/laptops/zbfuryg7-3.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i9-10885H"
+      },
+      {
+        "label": "الرامات",
+        "value": "16GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "512GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "NVIDIA Quadro RTX 4000 8GB"
       },
       {
         "label": "الشاشة",
@@ -2497,20 +2905,66 @@ const LAPTOPS = [
         "value": "مدمجة"
       }
     ],
+    "quick": {
+      "cpu": "Intel Core i9-10885H",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA Quadro RTX 4000 8GB",
+      "screen": "15.6 بوصة"
+    }
+  },
+  {
+    "id": "laptop-348",
+    "name": "HP ZBook Fury 15 G8 i9",
+    "brand": "HP",
+    "price": 52000,
+    "variants": [],
+    "available": true,
     "features": [
-      "كارت Quadro RTX 3000 بـ 6 جيجا",
-      "معالج Xeon W بـ 6 أنوية حتى 5.1 جيجاهرتز",
-      "مناسب للريندر والـ 3ds Max والمونتاج",
-      "هارد NVMe سريع 512"
+      "كارت NVIDIA RTX A4000 بـ 8 جيجا",
+      "معالج Core i9 جيل 11 بـ 8 أنوية",
+      "هارد NVMe 512",
+      "للريندر التقيل والـ AI"
     ],
-    "description": "ورك ستيشن احترافي بمعالج Xeon وكارت NVIDIA Quadro RTX 3000 بـ 6 جيجا. مناسب للريندر والمونتاج والتصميم ثلاثي الأبعاد.",
+    "description": "ZBook Fury بمعالج Core i9 جيل 11 وكارت NVIDIA RTX A4000 بـ 8 جيجا. من أقوى الورك ستيشن 15 بوصة.",
     "images": [
-      "images/laptops/laptop-293-1.jpg",
-      "images/laptops/laptop-293-2.jpg",
-      "images/laptops/laptop-293-3.jpg",
-      "images/laptops/laptop-293-4.jpg",
-      "images/laptops/laptop-293-5.jpg"
-    ]
+      "images/laptops/zbfuryg7-1.jpg",
+      "images/laptops/zbfuryg7-2.jpg",
+      "images/laptops/zbfuryg7-3.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i9-11950H"
+      },
+      {
+        "label": "الرامات",
+        "value": "16GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "512GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "NVIDIA RTX A4000 8GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "15.6 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i9-11950H",
+      "ram": "16GB DDR4",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA RTX A4000 8GB",
+      "screen": "15.6 بوصة FHD"
+    }
   },
   {
     "id": "laptop-354",
@@ -2579,30 +3033,122 @@ const LAPTOPS = [
     ]
   },
   {
+    "id": "laptop-392",
+    "name": "Dell Precision 7670 (i7)",
+    "brand": "Dell",
+    "price": 54000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "معالج i7 جيل 12 فئة HX",
+      "رامات 32 جيجا DDR5",
+      "كارت NVIDIA RTX A1000 بـ 4 جيجا",
+      "شاشة 16 بوصة"
+    ],
+    "description": "Precision 7670 بمعالج i7 جيل 12 فئة HX ورامات 32 جيجا DDR5. ورك ستيشن حديث جداً بشاشة 16 بوصة.",
+    "images": [
+      "images/laptops/prec7670-1.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i7-12850HX"
+      },
+      {
+        "label": "الرامات",
+        "value": "32GB DDR5"
+      },
+      {
+        "label": "التخزين",
+        "value": "512GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "NVIDIA RTX A1000 4GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "16 بوصة"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i7-12850HX",
+      "ram": "32GB DDR5",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA RTX A1000 4GB",
+      "screen": "16 بوصة"
+    }
+  },
+  {
+    "id": "laptop-393",
+    "name": "Dell Precision 7670 i9",
+    "brand": "Dell",
+    "price": 62000,
+    "variants": [],
+    "available": true,
+    "features": [
+      "معالج Core i9 جيل 12 بـ 16 نواة",
+      "كارت NVIDIA RTX A2000 بـ 8 جيجا",
+      "رامات DDR5",
+      "شاشة 16 بوصة"
+    ],
+    "description": "Precision 7670 بمعالج Core i9 بـ 16 نواة وكارت NVIDIA RTX A2000 بـ 8 جيجا. قوة عالية جداً للمحترفين.",
+    "images": [
+      "images/laptops/prec7670-1.jpg"
+    ],
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i9-12950HX"
+      },
+      {
+        "label": "الرامات",
+        "value": "16GB DDR5"
+      },
+      {
+        "label": "التخزين",
+        "value": "512GB NVMe SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "NVIDIA RTX A2000 8GB"
+      },
+      {
+        "label": "الشاشة",
+        "value": "16 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "quick": {
+      "cpu": "Intel Core i9-12950HX",
+      "ram": "16GB DDR5",
+      "storage": "512GB NVMe SSD",
+      "gpu": "NVIDIA RTX A2000 8GB",
+      "screen": "16 بوصة FHD"
+    }
+  },
+  {
     "id": "laptop-299",
     "name": "HP ZBook Fury 16 G9",
     "brand": "HP",
-    "price": 82000,
+    "price": 78000,
     "variants": [
       {
         "title": "N.V/512 / 16 DDR5",
-        "price": 82000,
+        "price": 78000,
         "available": true
       },
       {
-        "title": "N.V/512 / 32 ddr5",
+        "title": "N.V/512 / 32 DDR5",
         "price": 94000,
         "available": true
-      },
-      {
-        "title": "N.V/512 / 48 ddr5",
-        "price": 94000,
-        "available": false
-      },
-      {
-        "title": "N.V/512 / 64 ddr5",
-        "price": 102000,
-        "available": false
       }
     ],
     "available": true,
@@ -2642,7 +3188,7 @@ const LAPTOPS = [
     "features": [
       "معالج i9 جيل 12 بـ 16 نواة",
       "كارت NVIDIA RTX A4500 بـ 16 جيجا",
-      "رامات DDR5 متاحة لحد 64 جيجا",
+      "رامات DDR5 متاحة 16 أو 32 جيجا",
       "للريندر التقيل والـ AI والمحاكاة الهندسية"
     ],
     "description": "أقوى جهاز عندنا: معالج Core i9 بـ 16 نواة وكارت NVIDIA RTX A4500 بـ 16 جيجا وشاشة 16 بوصة. ورك ستيشن مفيش حاجة تقف قدامه.",
