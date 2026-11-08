@@ -631,6 +631,60 @@ const LAPTOPS = [
     ]
   },
   {
+    "id": "pb-440g8",
+    "name": "HP ProBook 440 G8",
+    "brand": "HP",
+    "price": 14500,
+    "variants": [],
+    "available": true,
+    "quick": {
+      "cpu": "Intel Core i5-1135G7",
+      "ram": "16GB DDR4",
+      "storage": "256GB SSD",
+      "gpu": "Intel Iris Xe Graphics",
+      "screen": "14 بوصة FHD"
+    },
+    "specs": [
+      {
+        "label": "المعالج",
+        "value": "Intel Core i5-1135G7"
+      },
+      {
+        "label": "الرامات",
+        "value": "16GB DDR4"
+      },
+      {
+        "label": "التخزين",
+        "value": "256GB SSD"
+      },
+      {
+        "label": "كارت الشاشة",
+        "value": "Intel Iris Xe Graphics"
+      },
+      {
+        "label": "الشاشة",
+        "value": "14 بوصة FHD"
+      },
+      {
+        "label": "الكاميرا",
+        "value": "مدمجة"
+      }
+    ],
+    "features": [
+      "معالج i5 جيل 11 بـ 4 أنوية و8 ثريد",
+      "رامات 16 جيجا لتعدد مهام براحة",
+      "كارت Iris Xe أقوى من الكروت المدمجة القديمة",
+      "بودي فضي خفيف وشاشة 14 بوصة FHD"
+    ],
+    "description": "ProBook حديث بمعالج جيل 11 ورامات 16 جيجا. سريع وخفيف ومناسب للمذاكرة والشغل المكتبي والبرمجة بسعر مناسب.",
+    "images": [
+      "images/laptops/pb440g8-1.jpg",
+      "images/laptops/pb440g8-2.jpg",
+      "images/laptops/pb440g8-3.jpg",
+      "images/laptops/pb440g8-4.jpg"
+    ]
+  },
+  {
     "id": "gl-09",
     "name": "HP EliteBook 830 x360 G6",
     "brand": "HP",
